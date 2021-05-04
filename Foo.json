@@ -3,7 +3,9 @@
 	"Locations": [
 		{
 			"Name": "Location name",
-			"Trails": [],
+			"Trails": [
+				{}
+			],
 			"ThumbnailAsset": "YUKQKBSE.jpg"
 		}
 	]
