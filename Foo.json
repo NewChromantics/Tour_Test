@@ -4,7 +4,10 @@
 		{
 			"Name": "Location name",
 			"Trails": [
-				{}
+				{
+					"Name": "Trail number one",
+					"Hotspots": []
+				}
 			],
 			"ThumbnailAsset": "YUKQKBSE.jpg"
 		}
