@@ -1,6 +1,10 @@
 {
 	"Name": "Uninitialised Organisation",
 	"Locations": [
-		{}
+		{
+			"Name": "New Location",
+			"Trails": [],
+			"ThumbnailAsset": "DHDVYLCD.jpg"
+		}
 	]
 }
