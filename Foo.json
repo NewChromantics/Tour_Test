@@ -6,7 +6,9 @@
 			"Trails": [
 				{
 					"Name": "Trail number one",
-					"Hotspots": []
+					"Hotspots": [
+						{}
+					]
 				}
 			],
 			"ThumbnailAsset": "YUKQKBSE.jpg"
