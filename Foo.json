@@ -39,7 +39,8 @@
 				{
 					"Name": "New Trail",
 					"Hotspots": []
-				}
+				},
+				{}
 			],
 			"ThumbnailAsset": "YUKQKBSE.jpg"
 		}
