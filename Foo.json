@@ -63,6 +63,7 @@
 		{
 			"Name": "New Location",
 			"Trails": []
-		}
+		},
+		{}
 	]
 }
