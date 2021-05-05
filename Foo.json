@@ -70,7 +70,8 @@
 		},
 		{
 			"Name": "New Location",
-			"Trails": []
+			"Trails": [],
+			"ThumbnailAsset": "XXSZLZSB.jpg"
 		},
 		{
 			"Name": "New Location",
