@@ -2,7 +2,7 @@
 	"Name": "Uninitialised Organisation",
 	"Locations": [
 		{
-			"Name": "Location name",
+			"Name": "Location Namegfdg",
 			"Trails": [
 				{
 					"Name": "Trail number one",
@@ -14,7 +14,13 @@
 								0.5
 							]
 						},
-						{}
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							]
+						}
 					]
 				}
 			],
