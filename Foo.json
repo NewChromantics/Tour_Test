@@ -38,7 +38,8 @@
 				},
 				{
 					"Name": "New Trail",
-					"Hotspots": []
+					"Hotspots": [],
+					"MapAsset": "XXSZLZSB.jpg"
 				},
 				{
 					"Name": "New Trail",
