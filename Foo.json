@@ -50,7 +50,7 @@
 			"ThumbnailAsset": "YUKQKBSE.jpg"
 		},
 		{
-			"Name": "New gfdg",
+			"Name": "vfd",
 			"Trails": [
 				{
 					"Name": "New Trail",
@@ -76,6 +76,9 @@
 			"Name": "New Location",
 			"Trails": []
 		},
-		{}
+		{
+			"Name": "New Location",
+			"Trails": []
+		}
 	]
 }
