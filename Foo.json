@@ -2,7 +2,7 @@
 	"Name": "Uninitialised Organisation",
 	"Locations": [
 		{
-			"Name": "Tree",
+			"Name": "Forest",
 			"Trails": [
 				{
 					"Name": "BranchTrail",
@@ -52,7 +52,10 @@
 		{
 			"Name": "New Location",
 			"Trails": [
-				{}
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
 			],
 			"ThumbnailAsset": "DHDVYLCD.jpg"
 		}
