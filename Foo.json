@@ -53,7 +53,8 @@
 				{
 					"Name": "Tree Three",
 					"Hotspots": []
-				}
+				},
+				{}
 			],
 			"ThumbnailAsset": "DHDVYLCD.jpg"
 		},
