@@ -38,7 +38,7 @@
 					"MapAsset": "YUKQKBSE.jpg"
 				},
 				{
-					"Name": "Tree Two",
+					"Name": "Tree Twogdfhdf",
 					"Hotspots": [],
 					"MapAsset": "XXSZLZSB.jpg"
 				},
@@ -76,7 +76,10 @@
 		{
 			"Name": "New Location",
 			"Trails": [
-				{}
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
 			]
 		},
 		{
