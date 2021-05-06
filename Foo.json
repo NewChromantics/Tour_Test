@@ -54,7 +54,10 @@
 					"Name": "Tree Three",
 					"Hotspots": []
 				},
-				{}
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
 			],
 			"ThumbnailAsset": "DHDVYLCD.jpg"
 		},
