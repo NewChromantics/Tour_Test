@@ -74,7 +74,9 @@
 		},
 		{
 			"Name": "New Location",
-			"Trails": []
+			"Trails": [
+				{}
+			]
 		},
 		{
 			"Name": "New Location",
