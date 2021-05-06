@@ -84,7 +84,7 @@
 		{
 			"Name": "New Location",
 			"Trails": [],
-			"ThumbnailAsset": "DHDVYLCD.jpg"
+			"ThumbnailAsset": "OLJZHVBU.jpg"
 		},
 		{
 			"Name": "New Location",
@@ -99,6 +99,9 @@
 			"Name": "sfd",
 			"Trails": []
 		},
-		{}
+		{
+			"Name": "New Location",
+			"Trails": []
+		}
 	]
 }
