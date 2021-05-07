@@ -14,8 +14,14 @@
 								0.5
 							],
 							"Storys": [
-								{},
-								{}
+								{
+									"ContentImageAssets": [
+										"XXSZLZSB.jpg"
+									]
+								},
+								{
+									"ContentImageAssets": []
+								}
 							],
 							"MarkerAsset": "XXSZLZSB.jpg"
 						},
