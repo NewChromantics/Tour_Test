@@ -68,7 +68,14 @@
 				{
 					"Name": "New Trail",
 					"Hotspots": [
-						{}
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": []
+						}
 					],
 					"MapAsset": "XXSZLZSB.jpg"
 				}
