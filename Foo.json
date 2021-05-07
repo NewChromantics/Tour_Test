@@ -17,8 +17,10 @@
 								{
 									"ContentImageAssets": [
 										"XXSZLZSB.jpg",
-										"OLJZHVBU.jpg"
-									]
+										"OLJZHVBU.jpg",
+										null
+									],
+									"ContentText": "nhgjmhgmhg"
 								},
 								{
 									"ContentImageAssets": []
