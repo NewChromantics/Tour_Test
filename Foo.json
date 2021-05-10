@@ -24,6 +24,7 @@
 										"DHDVYLCD.jpg",
 										null,
 										null,
+										null,
 										null
 									],
 									"ContentText": "X",
@@ -75,7 +76,10 @@
 					"Name": "New Trail",
 					"Hotspots": []
 				},
-				{}
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
 			],
 			"ThumbnailAsset": "DHDVYLCD.jpg"
 		},
