@@ -23,9 +23,11 @@
 										"DHDVYLCD.jpg",
 										"DHDVYLCD.jpg",
 										null,
+										null,
 										null
 									],
-									"ContentText": "X"
+									"ContentText": "X",
+									"ContentModelAsset": "16dechdmicableinvoice.pdf"
 								},
 								{
 									"ContentImageAssets": []
