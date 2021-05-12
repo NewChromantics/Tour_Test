@@ -118,7 +118,10 @@
 					],
 					"MapAsset": "YUKQKBSE.jpg"
 				},
-				{}
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
 			],
 			"ThumbnailAsset": "ILUTHVZO.jpg"
 		},
@@ -184,7 +187,9 @@
 		},
 		{
 			"Name": "New Location",
-			"Trails": []
+			"Trails": [
+				{}
+			]
 		}
 	]
 }
