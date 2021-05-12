@@ -53,7 +53,9 @@
 								0.5
 							],
 							"Storys": [
-								{}
+								{
+									"ContentImageAssets": []
+								}
 							]
 						},
 						{
@@ -150,7 +152,9 @@
 		},
 		{
 			"Name": "LocationE",
-			"Trails": [],
+			"Trails": [
+				{}
+			],
 			"ThumbnailAsset": "OLJZHVBU.jpg"
 		},
 		{
