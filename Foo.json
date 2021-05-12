@@ -89,7 +89,15 @@
 				{
 					"Name": "West Wing",
 					"Hotspots": [
-						{}
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "ILUTHVZO.jpg"
+						}
 					],
 					"MapAsset": "YUKQKBSE.jpg"
 				}
