@@ -81,7 +81,8 @@
 				{
 					"Name": "New Trail",
 					"Hotspots": []
-				}
+				},
+				{}
 			],
 			"ThumbnailAsset": "ILUTHVZO.jpg"
 		},
