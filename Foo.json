@@ -96,7 +96,11 @@
 								0.5
 							],
 							"Storys": [
-								{}
+								{
+									"ContentImageAssets": [
+										"DHDVYLCD.jpg"
+									]
+								}
 							],
 							"MarkerAsset": "ILUTHVZO.jpg"
 						}
