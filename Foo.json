@@ -86,7 +86,10 @@
 					"Name": "New Trail",
 					"Hotspots": []
 				},
-				{}
+				{
+					"Name": "West Wing",
+					"Hotspots": []
+				}
 			],
 			"ThumbnailAsset": "ILUTHVZO.jpg"
 		},
