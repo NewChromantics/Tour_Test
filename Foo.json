@@ -34,6 +34,9 @@
 								},
 								{
 									"ContentImageAssets": []
+								},
+								{
+									"ContentText": "Story Content"
 								}
 							],
 							"MarkerAsset": "XXSZLZSB.jpg"
@@ -153,7 +156,10 @@
 		{
 			"Name": "LocationE",
 			"Trails": [
-				{}
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
 			],
 			"ThumbnailAsset": "OLJZHVBU.jpg"
 		},
