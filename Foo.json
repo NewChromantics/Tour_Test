@@ -125,6 +125,10 @@
 				{
 					"Name": "New Trail",
 					"Hotspots": []
+				},
+				{
+					"Name": "New Trail",
+					"Hotspots": []
 				}
 			],
 			"ThumbnailAsset": "ILUTHVZO.jpg"
