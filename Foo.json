@@ -188,8 +188,12 @@
 		{
 			"Name": "New Location",
 			"Trails": [
-				{}
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
 			]
-		}
+		},
+		{}
 	]
 }
