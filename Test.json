@@ -28,6 +28,10 @@
 									"ContentVideoAsset": null,
 									"ContentAudioAsset": null,
 									"ContentImageAssets": []
+								},
+								{
+									"ContentModelAsset": "Model.zip",
+									"ContentImageAssets": []
 								}
 							]
 						},
