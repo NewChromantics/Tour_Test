@@ -1,0 +1,128 @@
+{
+	"Locations": [
+		{
+			"Name": "Test Location One",
+			"Trails": [
+				{
+					"Name": "Trail one",
+					"Hotspots": [
+						{
+							"Name": "Hotspot Top left",
+							"MarkerAsset": "Aruco1.png",
+							"MarkerHorizontal": true,
+							"MapUv": [
+								0.1,
+								0.1
+							],
+							"Storys": [
+								{
+									"ContentText": null,
+									"ContentModelAsset": null,
+									"ContentVideoAsset": "Video.mp4",
+									"ContentAudioAsset": null,
+									"ContentImageAssets": []
+								},
+								{
+									"ContentText": "Some text",
+									"ContentModelAsset": null,
+									"ContentVideoAsset": null,
+									"ContentAudioAsset": null,
+									"ContentImageAssets": []
+								}
+							]
+						},
+						{
+							"Name": "Hotspot Bottom Left",
+							"MarkerAsset": "Aruco2.png",
+							"MarkerHorizontal": false,
+							"MapUv": [
+								0.1,
+								0.9
+							],
+							"Storys": [
+								{
+									"ContentText": null,
+									"ContentModelAsset": null,
+									"ContentVideoAsset": "Video.mp4",
+									"ContentAudioAsset": null,
+									"ContentImageAssets": []
+								},
+								{
+									"ContentText": "Some text",
+									"ContentModelAsset": null,
+									"ContentVideoAsset": null,
+									"ContentAudioAsset": null,
+									"ContentImageAssets": []
+								},
+								{
+									"ContentText": null,
+									"ContentModelAsset": "TestModel.obj",
+									"ContentVideoAsset": null,
+									"ContentAudioAsset": null,
+									"ContentImageAssets": []
+								},
+								{
+									"ContentText": null,
+									"ContentModelAsset": "TestModel.obj",
+									"ContentVideoAsset": null,
+									"ContentAudioAsset": null,
+									"ContentImageAssets": []
+								},
+								{
+									"ContentText": null,
+									"ContentModelAsset": null,
+									"ContentVideoAsset": null,
+									"ContentAudioAsset": "TestAudio.mp3",
+									"ContentImageAssets": []
+								},
+								{
+									"ContentText": null,
+									"ContentModelAsset": null,
+									"ContentVideoAsset": null,
+									"ContentAudioAsset": null,
+									"ContentImageAssets": [
+										"TestImage1.jpg",
+										"TestImage1.png"
+									]
+								}
+							]
+						},
+						{
+							"Name": "Hotspot1",
+							"MarkerAsset": "Aruco3.png",
+							"MarkerHorizontal": true,
+							"MapUv": [
+								0.9,
+								0.9
+							],
+							"Storys": [
+								{
+									"ContentText": null,
+									"ContentModelAsset": null,
+									"ContentVideoAsset": "Video.mp4",
+									"ContentAudioAsset": null,
+									"ContentImageAssets": []
+								},
+								{
+									"ContentText": null,
+									"ContentModelAsset": "TestModel.obj",
+									"ContentVideoAsset": null,
+									"ContentAudioAsset": null,
+									"ContentImageAssets": []
+								}
+							]
+						}
+					],
+					"MapAsset": "PirateMap.jpg"
+				}
+			],
+			"ThumbnailAsset": "DULSQSOA.jpg"
+		},
+		{
+			"Name": "Test Location Two",
+			"Trails": [],
+			"ThumbnailAsset": "Location2Thumbnail.jpg"
+		}
+	],
+	"Name": "Uninitialised Organisation"
+}
