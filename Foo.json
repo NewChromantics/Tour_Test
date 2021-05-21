@@ -33,7 +33,9 @@
 									"ContentModelAsset": "SciFiHelmet.zip"
 								},
 								{
-									"ContentImageAssets": []
+									"ContentImageAssets": [
+										"ILUTHVZO.jpg"
+									]
 								},
 								{
 									"ContentText": "Story Content",
@@ -208,10 +210,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "17d0f09d2f7edb4c239e1b3d1f259fe2e1119afd",
+		"Sha": "55ca8774dbc4238ccb4c2b7c96907453b310debc",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-19T18:02:03.000Z",
+		"Date": "2021-05-21T09:41:59.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
