@@ -22,7 +22,8 @@
 								{
 									"ContentImageAssets": [
 										"ILUTHVZO.jpg",
-										"XXSZLZSB.jpg"
+										"XXSZLZSB.jpg",
+										"DHDVYLCD.jpg"
 									]
 								},
 								{
@@ -220,10 +221,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "3e58a8bcdd3d2eb8438108f3ad127593c00f018b",
+		"Sha": "51e4f488d0958907d2060d5757da04917585597b",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T16:42:22.000Z",
+		"Date": "2021-05-24T16:45:07.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
