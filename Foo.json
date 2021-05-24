@@ -34,7 +34,8 @@
 								},
 								{
 									"ContentText": "Story Content",
-									"ContentImageAssets": []
+									"ContentImageAssets": [],
+									"ContentModelAsset": "DHDVYLCD.jpg"
 								}
 							],
 							"MarkerAsset": "XXSZLZSB.jpg"
@@ -205,10 +206,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "357ffa3b03a38d8200d3d88b8235f1770935b8d3",
+		"Sha": "06f0e036bb0cbdf6be627cbe0e24c91da4b35d63",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T15:41:27.000Z",
+		"Date": "2021-05-24T16:10:54.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
