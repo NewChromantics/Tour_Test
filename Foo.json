@@ -20,7 +20,6 @@
 										"DHDVYLCD.jpg",
 										"DHDVYLCD.jpg",
 										"YUKQKBSE.jpg",
-										null,
 										null
 									],
 									"ContentText": "",
@@ -208,10 +207,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "5ef3c0a35a3926e4fbf4f3227d4713fc3c1baf50",
+		"Sha": "84438bffa31fc9a12bf3ac174eea93d399087df3",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T14:40:22.000Z",
+		"Date": "2021-05-24T14:59:07.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
