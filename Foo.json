@@ -16,7 +16,6 @@
 							"Storys": [
 								{
 									"ContentImageAssets": [
-										"OLJZHVBU.jpg",
 										"YUKQKBSE.jpg",
 										"DHDVYLCD.jpg",
 										"DHDVYLCD.jpg",
@@ -211,10 +210,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "790d66defbab035d3130598e351b6c0cbb6129b3",
+		"Sha": "5ef3c0a35a3926e4fbf4f3227d4713fc3c1baf50",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T13:37:07.000Z",
+		"Date": "2021-05-24T14:40:22.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
