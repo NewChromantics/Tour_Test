@@ -217,10 +217,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "c86cbf7976b6156949fe506337f250acbab0667f",
+		"Sha": "b7d8435de5a1819162eb96ad608362b0b2e158a7",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T16:15:35.000Z",
+		"Date": "2021-05-24T16:18:54.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
