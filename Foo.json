@@ -45,7 +45,8 @@
 								},
 								{
 									"ContentText": "Story Content",
-									"ContentImageAssets": []
+									"ContentImageAssets": [],
+									"ContentAudioAsset": "ILUTHVZO.jpg"
 								}
 							],
 							"MarkerAsset": "XXSZLZSB.jpg"
