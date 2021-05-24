@@ -15,9 +15,7 @@
 							],
 							"Storys": [
 								{
-									"ContentImageAssets": [
-										null
-									],
+									"ContentImageAssets": [],
 									"ContentText": "",
 									"ContentModelAsset": "Avocado.zip"
 								},
@@ -32,6 +30,10 @@
 								},
 								{
 									"ContentModelAsset": "SciFiHelmet.zip",
+									"ContentImageAssets": []
+								},
+								{
+									"ContentText": "Story Content",
 									"ContentImageAssets": []
 								}
 							],
@@ -203,10 +205,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "84438bffa31fc9a12bf3ac174eea93d399087df3",
+		"Sha": "dd92aa8cda1f7c07cf28c21bf1aa07585398b6a6",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T14:59:07.000Z",
+		"Date": "2021-05-24T15:04:28.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
