@@ -38,7 +38,7 @@
 									]
 								},
 								{
-									"ContentText": "Story Content",
+									"ContentText": "Story Content, lots of text goes in here. etc etc etc",
 									"ContentImageAssets": []
 								},
 								{
@@ -214,10 +214,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "3bd442eadd9332b9b05d13d0f36df403ffd4802f",
+		"Sha": "26cfeeda90102fa8bd0054c98c8d07374b9236e5",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T11:12:10.000Z",
+		"Date": "2021-05-24T13:27:21.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
