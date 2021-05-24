@@ -30,7 +30,7 @@
 										null
 									],
 									"ContentText": "X",
-									"ContentModelAsset": "SciFiHelmet.zip"
+									"ContentModelAsset": "Avocado.zip"
 								},
 								{
 									"ContentImageAssets": [
@@ -210,10 +210,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "55ca8774dbc4238ccb4c2b7c96907453b310debc",
+		"Sha": "87165021108aa151aa28e1da0608f9ed73c3636a",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-21T09:41:59.000Z",
+		"Date": "2021-05-21T11:12:54.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
