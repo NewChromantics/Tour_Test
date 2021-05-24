@@ -147,7 +147,8 @@
 				}
 			],
 			"ThumbnailAsset": "XXSZLZSB.jpg",
-			"AboutSubtitle": "Subttile here"
+			"AboutSubtitle": "Subttile here",
+			"AboutText": "Longer about description"
 		},
 		{
 			"Name": "LocationB",
