@@ -35,7 +35,8 @@
 								{
 									"ContentText": "Story Content",
 									"ContentImageAssets": [],
-									"ContentModelAsset": "DHDVYLCD.jpg"
+									"ContentModelAsset": "DHDVYLCD.jpg",
+									"ContentAudioAsset": "DHDVYLCD.jpg"
 								}
 							],
 							"MarkerAsset": "XXSZLZSB.jpg"
