@@ -29,7 +29,7 @@
 										null,
 										null
 									],
-									"ContentText": "X",
+									"ContentText": "",
 									"ContentModelAsset": "Avocado.zip"
 								},
 								{
@@ -214,10 +214,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "28c68c42f114bcc9036c9382c6aa513173ef7152",
+		"Sha": "3bd442eadd9332b9b05d13d0f36df403ffd4802f",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T10:52:26.000Z",
+		"Date": "2021-05-24T11:12:10.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
