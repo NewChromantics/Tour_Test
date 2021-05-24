@@ -25,7 +25,6 @@
 										"XXSZLZSB.jpg",
 										"null",
 										"null",
-										"null",
 										"null"
 									]
 								},
@@ -224,10 +223,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "8e12ead9aac9e245ad6438ccc74794c53c74f890",
+		"Sha": "3e58a8bcdd3d2eb8438108f3ad127593c00f018b",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T16:34:04.000Z",
+		"Date": "2021-05-24T16:42:22.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
