@@ -146,7 +146,8 @@
 					"Hotspots": []
 				}
 			],
-			"ThumbnailAsset": "XXSZLZSB.jpg"
+			"ThumbnailAsset": "XXSZLZSB.jpg",
+			"AboutSubtitle": "Subttile here"
 		},
 		{
 			"Name": "LocationB",
@@ -223,10 +224,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "2bc8a78d2af98aad098e841579f76cfcaa55f123",
+		"Sha": "cc0b2c69e41a6b1138712b91ef8065ea775c10ca",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T16:59:33.000Z",
+		"Date": "2021-05-24T17:00:58.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
