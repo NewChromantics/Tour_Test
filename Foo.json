@@ -26,7 +26,8 @@
 										"DHDVYLCD.jpg",
 										null
 									],
-									"ContentAudioAsset": null
+									"ContentAudioAsset": null,
+									"ContentImageAsset": "ILUTHVZO.jpg"
 								},
 								{
 									"ContentText": "Story Content, lots of text goes in here. etc etc etc",
@@ -225,10 +226,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "cc0b2c69e41a6b1138712b91ef8065ea775c10ca",
+		"Sha": "66bb8450425a4224786fdf7747f211f702307e54",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-24T17:00:58.000Z",
+		"Date": "2021-05-24T17:40:05.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
