@@ -27,7 +27,8 @@
 										null
 									],
 									"ContentAudioAsset": null,
-									"ContentImageAsset": "ILUTHVZO.jpg"
+									"ContentImageAsset": "ILUTHVZO.jpg",
+									"ContentVideoAsset": null
 								},
 								{
 									"ContentText": "Story Content, lots of text goes in here. etc etc etc",
