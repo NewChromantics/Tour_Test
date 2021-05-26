@@ -10,8 +10,8 @@
 						{
 							"Name": "North",
 							"MapUv": [
-								"0.54",
-								"0.5"
+								"0.55",
+								"0.53"
 							],
 							"Storys": [
 								{
@@ -233,10 +233,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "1d87983a09e3b3e96c1954266ed667039b8036d8",
+		"Sha": "c154338c43a56d8516759b6da5a90b74f2b0c5ea",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-26T15:26:52.000Z",
+		"Date": "2021-05-26T15:34:26.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
