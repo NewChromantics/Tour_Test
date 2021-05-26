@@ -32,7 +32,8 @@
 								},
 								{
 									"ContentText": "Story Content, lots of text goes in here. etc etc etc",
-									"ContentImageAssets": []
+									"ContentImageAssets": [],
+									"ContentAudioAsset": null
 								},
 								{
 									"ContentModelAsset": "SciFiHelmet.zip",
