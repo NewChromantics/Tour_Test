@@ -91,7 +91,7 @@
 					],
 					"MapAsset": "YUKQKBSE.jpg",
 					"Thumbnail": "YUKQKBSE.jpg",
-					"ThumbnailAsset": "YUKQKBSE.jpg"
+					"ThumbnailAsset": "OLJZHVBU.jpg"
 				},
 				{
 					"Name": "Tree Twogdfhdf",
@@ -230,10 +230,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "c09034b108818dbf53c3a7b7d82fca1df10ce09d",
+		"Sha": "96798c3e60cce1916013ab4285fbbabcb06c0889",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-25T15:26:36.000Z",
+		"Date": "2021-05-26T10:15:56.000Z",
 		"Message": "CommitNewOrgStruct()"
 	}
 }
