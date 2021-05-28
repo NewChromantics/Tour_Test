@@ -2,221 +2,73 @@
 	"Name": "Uninitialised Organisation",
 	"Locations": [
 		{
-			"Name": "Jons Castle2",
+			"Name": "Forest",
 			"Trails": [
 				{
-					"Name": "Tree twojuh",
+					"Name": "Tree One",
 					"Hotspots": [
 						{
-							"Name": "Northx",
+							"Name": "North",
 							"MapUv": [
-								0.2685015799101946,
-								0.41685109073664245
+								0.019625357731332928,
+								0.09768303985171455
 							],
 							"Storys": [
 								{
-									"ContentImageAssets": [],
-									"ContentText": "Subtitle for model",
-									"ContentModelAsset": "SciFiHelmet.zip"
-								},
-								{
-									"ContentImageAssets": [
-										"ILUTHVZO.jpg",
-										"XXSZLZSB.jpg",
-										"DHDVYLCD.jpg",
-										null
-									],
-									"ContentAudioAsset": null,
-									"ContentImageAsset": "ILUTHVZO.jpg",
-									"ContentVideoAsset": null
-								},
-								{
-									"ContentText": "Story Content, lots of text goes in here. etc etc etc",
-									"ContentImageAssets": [],
-									"ContentAudioAsset": null
-								},
-								{
 									"ContentModelAsset": "SciFiHelmet.zip",
-									"ContentImageAssets": []
+									"ContentText": "Hat"
 								},
 								{
-									"ContentText": "Story Content",
-									"ContentImageAssets": [],
-									"ContentModelAsset": "ILUTHVZO.jpg",
-									"ContentAudioAsset": "DHDVYLCD.jpg"
+									"ContentText": "Move the needle time vampire but good optics and we are running out of runway. Cta but what's the real problem we're trying to solve here? make it more corporate please or we don't need to boil the ocean here or bench mark code. Hard stop blue sky thinking quick-win cross sabers. Can I just chime in on that one business impact. I have zero cycles for this. Focus on the customer journey we need to start advertising on social media. Turd polishing turn the ship blue sky thinking, and pro-sumer software. Feature creep social currency for that's mint, well done or collaboration through advanced technlogy or streamline teams were able to drive adoption and awareness groom the backlog. Not the long pole in my tent circle back let's unpack that later, or marketing computer development html roi feedback team website quick-win you must be muted, for please submit the sop and uat files by next monday. Bottleneck mice marketing computer development html roi feedback team website, we need to socialize the comms with the wider stakeholder community service as core &innovations as power makes our brand nor move the needle blue sky thinking. Low hanging fruit. My grasp on reality right now is tenuous back-end of third quarter on your plate fire up your browser not a hill to die on. This medium needs to be more dynamic parallel path.\n\nBells and whistles we need to leverage our synergies we need evergreen content mumbo jumbo for workflow ecosystem but drill down. If you could do that, that would be great can I just chime in on that one, yet what do you feel you would bring to the table if you were hired for this position. Core competencies scope creep but make sure to include in your wheelhouse moving the goalposts, yet we need distributors to evangelize the new line to local markets. Where the metal hits the meat to be inspired is to become creative, innovative and energized we want this philosophy to trickle down to all our stakeholders upstream selling take five, punch the tree, and come back in here with a clear head we've bootstrapped the model. Product management breakout fastworks my grasp on reality right now is tenuous so our competitors are jumping the shark nor show pony, for we need distributors to evangelize the new line to local markets we’re starting to formalize flexible opinions around our foundations. Let me know if you need me to crack any skulls organic growth locked and loaded, but the closest elephant is the most dangerous nor best practices, and come up with something buzzworthy, nor globalize. Per my previous email that's not on the roadmap for strategic high-level 30,000 ft view. Bleeding edge value-added meeting assassin, so move the needle bottleneck mice. Programmatically time to open the kimono clear blue water. Strategic staircase can you run this by clearance? hot johnny coming through but eat our own dog food, your work on this project has been really impactful, for helicopter view. New economy disband the squad but rehydrate as needed and please submit the sop and uat files by next monday. Can you ballpark the cost per unit for me curate, we need to aspirationalise our offerings make it a priority granularity we need to get all stakeholders up to speed and in the right place or i don't want to drain the whole swamp, i just want to shoot some alligators."
 								},
 								{
-									"ContentText": "",
-									"ContentImageAssets": [],
-									"ContentVideoAsset": "ILUTHVZO.jpg",
-									"ContentAudioAsset": null,
-									"ContentImageAsset": "XXSZLZSB.jpg"
+									"ContentImageAsset": "LMNZDFHQ.jpg",
+									"ContentText": "Run Logan!"
 								},
 								{
-									"ContentText": "",
-									"ContentImageAssets": [],
-									"ContentAudioAsset": null,
-									"ContentVideoAsset": null,
-									"ContentModelAsset": null,
-									"ContentImageAsset": "YUKQKBSE.jpg"
+									"ContentAudioAsset": "bbc_king-bird-_nhu0501816.mp3",
+									"ContentText": "Birds innit"
+								},
+								{
+									"ContentVideoAsset": "pexelsvideos1481903.mp4",
+									"ContentText": "Cats innit"
 								}
 							],
-							"MarkerAsset": "XXSZLZSB.jpg"
+							"MarkerAsset": "LVJVMNSG.jpg"
 						},
 						{
-							"Name": "New Hotspot",
+							"Name": "South",
 							"MapUv": [
-								0.38380730639170685,
-								0.29038887132469177
+								0.019070332148122454,
+								0.9399443929564412
 							],
 							"Storys": []
 						},
 						{
 							"Name": "New Hotspot",
 							"MapUv": [
-								0.6851239669421487,
-								0.897407524502055
-							],
-							"Storys": [
-								{
-									"ContentImageAssets": []
-								}
-							]
-						},
-						{
-							"Name": "New Hotspot",
-							"MapUv": [
-								0.9737662337662337,
-								0.9277584571609232
+								0.9737143352701414,
+								0.17281433426011739
 							],
 							"Storys": []
 						}
 					],
-					"MapAsset": "YUKQKBSE.jpg",
-					"Thumbnail": "YUKQKBSE.jpg",
-					"ThumbnailAsset": "XXSZLZSB.jpg"
+					"MapAsset": "GPNNRCTN.jpg",
+					"ThumbnailAsset": "UFYKLNRD.jpg"
 				},
 				{
-					"Name": "Tree Twogdfhdf",
+					"Name": "Tree Two",
 					"Hotspots": [],
 					"MapAsset": "XXSZLZSB.jpg"
 				},
 				{
 					"Name": "Tree Three",
 					"Hotspots": []
-				},
-				{
-					"Name": "New Trail",
-					"Hotspots": []
-				},
-				{
-					"Name": "New Trail",
-					"Hotspots": []
-				},
-				{
-					"Name": "New Trail",
-					"Hotspots": []
-				},
-				{
-					"Name": "West Wing",
-					"Hotspots": [
-						{
-							"Name": "Hot spot 1",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"ContentImageAssets": [
-										"DHDVYLCD.jpg",
-										"OLJZHVBU.jpg",
-										"YUKQKBSE.jpg",
-										"XXSZLZSB.jpg"
-									]
-								}
-							],
-							"MarkerAsset": "ILUTHVZO.jpg"
-						}
-					],
-					"MapAsset": "YUKQKBSE.jpg"
-				},
-				{
-					"Name": "New Trail",
-					"Hotspots": []
-				},
-				{
-					"Name": "New Trail",
-					"Hotspots": []
-				},
-				{
-					"Name": "New Trail",
-					"Hotspots": []
 				}
 			],
-			"ThumbnailAsset": "XXSZLZSB.jpg",
-			"AboutSubtitle": "Subttile here",
-			"AboutText": "Longer about description"
-		},
-		{
-			"Name": "LocationB",
-			"Trails": [
-				{
-					"Name": "New Trail",
-					"Hotspots": [
-						{
-							"Name": "New Hotspot",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": []
-						}
-					],
-					"MapAsset": "XXSZLZSB.jpg"
-				}
-			],
-			"ThumbnailAsset": "OLJZHVBU.jpg"
-		},
-		{
-			"Name": "LocationC",
-			"Trails": []
-		},
-		{
-			"Name": "LocationD",
-			"Trails": [
-				{
-					"Name": "New Trail",
-					"Hotspots": []
-				}
-			]
-		},
-		{
-			"Name": "LocationE",
-			"Trails": [
-				{
-					"Name": "New Trail",
-					"Hotspots": []
-				}
-			],
-			"ThumbnailAsset": "OLJZHVBU.jpg"
-		},
-		{
-			"Name": "LocationF",
-			"Trails": [
-				{
-					"Name": "New Trail",
-					"Hotspots": []
-				}
-			]
-		},
-		{
-			"Name": "LocationGGG",
-			"Trails": []
-		},
-		{
-			"Name": "LocationH1",
-			"Trails": []
+			"ThumbnailAsset": "BDSJLNQU.jpg",
+			"AboutSubtitle": "Office Ipsum",
+			"AboutText": "We want to empower the team with the right tools and guidance"
 		},
 		{
 			"Name": "New Location",
@@ -225,19 +77,16 @@
 					"Name": "New Trail",
 					"Hotspots": []
 				}
-			]
-		},
-		{
-			"Name": "New Location",
-			"Trails": []
+			],
+			"ThumbnailAsset": "DHDVYLCD.jpg"
 		}
 	],
 	"CommitMeta": {
-		"Sha": "28202f56ea99036d0ba48a844f82cc86f6241a37",
+		"Sha": "69ac8c8844b32fe6e66133f68e13914bb27be3ef",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-28T11:17:25.000Z",
+		"Date": "2021-05-28T12:43:24.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
-	"TermsAndConditions": "New Terms"
+	"TermsAndConditions": "TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n\"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n\"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n\"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n\"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n\"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n\"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n\"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).\n\n\"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.\n\n\"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\"\n\n\"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work."
 }
