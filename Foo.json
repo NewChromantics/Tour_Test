@@ -10,8 +10,8 @@
 						{
 							"Name": "Northx",
 							"MapUv": [
-								0.2509108976482279,
-								null
+								0.23175914994096813,
+								0.47755295605437875
 							],
 							"Storys": [
 								{
@@ -233,10 +233,10 @@
 		}
 	],
 	"CommitMeta": {
-		"Sha": "b78ed512ca5ae96c080fdabb071f5a028f98b263",
+		"Sha": "28202f56ea99036d0ba48a844f82cc86f6241a37",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-05-26T17:35:02.000Z",
+		"Date": "2021-05-28T11:17:25.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"TermsAndConditions": "New Terms"
