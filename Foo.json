@@ -79,6 +79,10 @@
 				}
 			],
 			"ThumbnailAsset": "DHDVYLCD.jpg"
+		},
+		{
+			"Name": "New Location",
+			"Trails": []
 		}
 	],
 	"CommitMeta": {
