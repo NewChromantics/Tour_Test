@@ -1,3 +1,83 @@
 {
-	"Name": "Dublin Castle"
+	"Name": "Dublin Castle",
+	"CommitMeta": {
+		"Sha": "f5a4cf7b436884535a9741c77dca10f8593d56a1",
+		"AuthorName": "Editor",
+		"AuthorEmail": "editor@tour.cms",
+		"Date": "2021-06-01T10:16:05.000Z",
+		"Message": "CommitNewOrgStruct()"
+	},
+	"Locations": [
+		{
+			"Name": "Dublin Castle",
+			"Trails": [
+				{
+					"Name": "The State Apartments",
+					"Hotspots": [
+						{
+							"Name": "The Grand Staircase",
+							"MapUv": [
+								0.04472503633185198,
+								0.21482769522605122
+							],
+							"Storys": [
+								{
+									"ContentImageAsset": "MMFXIKJV.jpg"
+								},
+								{
+									"ContentImageAsset": "FMFIRVOT.jpg"
+								},
+								{
+									"ContentImageAsset": "SFFDVEOV.jpg"
+								},
+								{
+									"ContentImageAsset": "SWHVRBEF.jpg",
+									"ContentText": "This grand imperial staircase was the first of its type in Dublin and was created in 1749. Its generous architectural form created a suitably imposing first impression of the State Apartments. During the social season, debutantes and members of the aristocracy ascended this staircase in court dress on their way to attend balls, dinners and presentation ceremonies given by the Viceroy. \nSince 1938, it has been part of the main ceremonial route used during the inauguration of the President of Ireland in the State Apartments."
+								},
+								{
+									"ContentImageAsset": "KKAPVWAL.jpg"
+								}
+							],
+							"MarkerAsset": null
+						},
+						{
+							"Name": "The State Corridor",
+							"MapUv": [
+								0.2024368668253333,
+								0.1389503635788808
+							],
+							"Storys": [
+								{
+									"ContentText": "This great neoclassical corridor was designed in 1758. It provided access to a series of formal State reception rooms overlooking the main courtyard, as well as to the quarters of the Viceroy and his family overlooking the Castle gardens. At its far end, it led to the Privy Council Chamber. It was to this room that each new Viceroy processed when being sworn into office. On 16 January 1922, the Privy Council Chamber was the setting for the handover of Dublin Castle from the last Viceroy to Michael Collins and the new government of the Irish Free State.",
+									"ContentImageAsset": "KKAPVWAL.jpg"
+								},
+								{
+									"ContentImageAsset": "LTBRVUHP.jpg"
+								}
+							]
+						},
+						{
+							"Name": "The State Apartment Galleries",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [
+								{
+									"ContentText": "These four rooms were originally the quarters of the Viceroy and his family. They included the State Bedchamber, the Viceroyâ€™s Study, the Viceroyâ€™s Dressing Room and the Vicereineâ€™s Boudoir. Two of the rooms feature exquisite rococo plasterwork ceilings dating from the 1750s by the renowned stuccodore Bartholomew Cramillion. Today the rooms are used as gallery spaces for a vibrant programme of exhibitions, many of which explore themes relating to the Castleâ€™s history.",
+									"ContentImageAsset": "ROFELFOJ.jpg"
+								},
+								{}
+							]
+						}
+					],
+					"ThumbnailAsset": "GQUWFORJ.jpg"
+				}
+			],
+			"ThumbnailAsset": "AVNSRLDE.jpg",
+			"AboutSubtitle": "Welcome to Dublin Castle",
+			"AboutText": "Erected in the early thirteenth century on the site of a Viking settlement, Dublin Castle served for centuries as the headquarters of English, and later British, administration in Ireland. In 1922, following Irelandâ€™s independence, Dublin Castle was handed over to the new Irish government. It is now a major government complex and a key tourist attraction. We hope you enjoy your visit."
+		}
+	],
+	"TermsAndConditions": "TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n\"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.\n\n\"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.\n\n\"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.\n\n\"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License.\n\n\"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.\n\n\"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.\n\n\"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).\n\n\"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.\n\n\"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\"\n\n\"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work."
 }
