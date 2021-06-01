@@ -1,15 +1,15 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "2205b2fcb4a8fd3d8e54106a0a004752051d3141",
+		"Sha": "f4e147790399456ae64092be547ace7c7d64537b",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-01T10:21:15.000Z",
+		"Date": "2021-06-01T10:33:04.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
 		{
-			"Name": "Dublin Castle",
+			"Name": "Dublin CastleTEST",
 			"Trails": [
 				{
 					"Name": "The State Apartments",
