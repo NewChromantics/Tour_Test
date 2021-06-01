@@ -78,7 +78,8 @@
 							],
 							"Storys": [
 								{
-									"ContentModelAsset": "TELLBESK.zip"
+									"ContentModelAsset": "TELLBESK.zip",
+									"ContentText": "Wig"
 								}
 							]
 						}
