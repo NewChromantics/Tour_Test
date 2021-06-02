@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "b6be18b15c7fc0e60a2d997c68a2882f6e21eeae",
+		"Sha": "c4c4ed4c8c3588acd5b1fb34684f0706b0b65b7b",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-02T14:44:43.000Z",
+		"Date": "2021-06-02T15:08:35.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -84,7 +84,7 @@
 									"ContentText": "Wigs like this were the height of fashion."
 								}
 							],
-							"MarkerAsset": "OPKHAEDF.jpg"
+							"MarkerAsset": "WLPBDFLT.jpg"
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
