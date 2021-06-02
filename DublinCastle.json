@@ -10,7 +10,12 @@
 	"Locations": [
 		{
 			"Name": "Dublin Castle",
-			"Trails": [],
+			"Trails": [
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
+			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
 			"AboutText": "Erected in the early thirteenth century on the site of a Viking settlement, Dublin Castle served for centuries as the headquarters of English, and later British, administration in Ireland. In 1922, following Ireland’s independence, Dublin Castle was handed over to the new Irish government. It is now a major government complex and a key tourist attraction. We hope you enjoy your visit.",
 			"ThumbnailAsset": "VNIDCEKA.jpg"
