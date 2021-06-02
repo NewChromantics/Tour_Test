@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "dada1debc047639a6fff1a9d1b29a20039da8720",
+		"Sha": "006a0265ecd132266803fb9063e2667c91bfe68b",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-01T17:48:20.000Z",
+		"Date": "2021-06-01T16:05:06.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -38,7 +38,7 @@
 									"ContentImageAsset": "KKAPVWAL.jpg"
 								}
 							],
-							"MarkerAsset": "FHAGRWPX.jpg"
+							"MarkerAsset": null
 						},
 						{
 							"Name": "The State Corridor",
@@ -54,8 +54,7 @@
 								{
 									"ContentImageAsset": "LTBRVUHP.jpg"
 								}
-							],
-							"MarkerAsset": "NPXEDKTH.jpg"
+							]
 						},
 						{
 							"Name": "The State Apartment Galleries",
@@ -69,25 +68,14 @@
 									"ContentImageAsset": "ROFELFOJ.jpg"
 								},
 								{}
-							],
-							"MarkerAsset": "FZUCFCWT.jpg"
-						},
-						{
-							"Name": "New Hotspot",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"ContentModelAsset": "TELLBESK.zip",
-									"ContentText": "Wig"
-								}
-							],
-							"MarkerAsset": "QXINRPZY.jpg"
+							]
 						}
 					],
 					"ThumbnailAsset": "GQUWFORJ.jpg"
+				},
+				{
+					"Name": "New Trail",
+					"Hotspots": []
 				}
 			],
 			"ThumbnailAsset": "AVNSRLDE.jpg",
