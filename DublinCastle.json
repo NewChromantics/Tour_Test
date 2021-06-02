@@ -107,7 +107,8 @@
 				},
 				{
 					"Name": "The Medieval Tower",
-					"Hotspots": []
+					"Hotspots": [],
+					"ThumbnailAsset": "CEPQVROY.jpg"
 				}
 			],
 			"ThumbnailAsset": "AVNSRLDE.jpg",
