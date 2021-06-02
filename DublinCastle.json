@@ -94,7 +94,8 @@
 								{
 									"ContentImageAsset": "XNXVETBC.jpg",
 									"ContentText": "Dublin Castle"
-								}
+								},
+								{}
 							],
 							"MarkerAsset": "WLPBDFLT.jpg"
 						}
