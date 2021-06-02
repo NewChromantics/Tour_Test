@@ -133,7 +133,8 @@
 									"ContentText": "Dublin Castle is the ceremonial centre of Ireland, hosting kings, queens and grand events. ",
 									"ContentImageAsset": "WDISEZDS.jpg"
 								}
-							]
+							],
+							"MarkerAsset": "WDISEZDS.jpg"
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
