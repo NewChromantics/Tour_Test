@@ -116,8 +116,8 @@
 						{
 							"Name": "The State Drawing Room",
 							"MapUv": [
-								0.6081741401461699,
-								0.39626957592820694
+								0.5,
+								0.5
 							],
 							"Storys": [
 								{
@@ -146,8 +146,8 @@
 						{
 							"Name": "The Throne Room",
 							"MapUv": [
-								0.40193559257777123,
-								0.4469470350167165
+								0.5,
+								0.5
 							],
 							"Storys": [
 								{
@@ -159,7 +159,8 @@
 								},
 								{
 									"ContentImageAsset": "PQGEHTQG.jpg"
-								}
+								},
+								{}
 							]
 						}
 					],
