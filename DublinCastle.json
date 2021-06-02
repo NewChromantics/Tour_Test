@@ -149,7 +149,9 @@
 								0.5,
 								0.5
 							],
-							"Storys": []
+							"Storys": [
+								{}
+							]
 						}
 					],
 					"ThumbnailAsset": "GQUWFORJ.jpg"
