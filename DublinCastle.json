@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "16a4326eb79378e2bf3e7472d64cd00747e38c07",
+		"Sha": "aeba32faca2cb65c29faa00d9e005f4dc739ed05",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-02T11:44:38.000Z",
+		"Date": "2021-06-02T14:41:45.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -46,7 +46,7 @@
 									"ContentImageAsset": "FGHWDKDP.jpg"
 								}
 							],
-							"MarkerAsset": "QGTOXKVS.jpg"
+							"MarkerAsset": "OPKHAEDF.jpg"
 						},
 						{
 							"Name": "St Patrick’s Hall",
