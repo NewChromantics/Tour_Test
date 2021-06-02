@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "006a0265ecd132266803fb9063e2667c91bfe68b",
+		"Sha": "d69cd23e7456c14619e59b8c215b69d17f7e34b5",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-01T16:05:06.000Z",
+		"Date": "2021-06-02T10:43:56.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -146,8 +146,8 @@
 						{
 							"Name": "The Throne Room",
 							"MapUv": [
-								0.5,
-								0.5
+								0.40193559257777123,
+								0.4469470350167165
 							],
 							"Storys": [
 								{
