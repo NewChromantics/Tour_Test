@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "16a4326eb79378e2bf3e7472d64cd00747e38c07",
+		"Sha": "1ecce820e3ec7365442599c080a97fd302effbe8",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-02T11:44:38.000Z",
+		"Date": "2021-06-02T13:23:51.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -17,82 +17,180 @@
 						{
 							"Name": "Dubh Linn Garden",
 							"MapUv": [
-								0.5,
-								0.5
+								0.5863384317665885,
+								0.27004746440169874
 							],
 							"Storys": [
 								{
 									"ContentText": "Dubh Linn Garden\nPre 1200: Before the Castle"
 								},
 								{
-									"ContentText": "Viking settlement and port on the site with timber fortifications.",
-									"ContentImageAsset": "UIPPSYSA.jpg"
+									"ContentText": "Viking settlement and port on the site with timber fortifications."
 								}
 							],
-							"MarkerAsset": "UIPPSYSA.jpg"
+							"MarkerAsset": "OPKHAEDF.jpg"
 						},
 						{
 							"Name": "Record Tower",
 							"MapUv": [
-								0.5,
-								0.5
+								0.4315246920471884,
+								0.333999500374719
 							],
 							"Storys": [
 								{
 									"ContentText": "Record Tower\n1200 – 1600: Fortress"
 								},
 								{
-									"ContentText": "England’s King John orders a stone castle to be built. This tower remains.",
-									"ContentImageAsset": "FGHWDKDP.jpg"
+									"ContentText": "England’s King John orders a stone castle to be built. This tower remains."
 								}
 							],
-							"MarkerAsset": "QGTOXKVS.jpg"
+							"MarkerAsset": "FGHWDKDP.jpg"
 						},
 						{
 							"Name": "St Patrick’s Hall",
 							"MapUv": [
-								0.5,
-								0.5
+								0.7328160470395594,
+								0.38196352735448413
 							],
 							"Storys": [
 								{
 									"ContentText": "St Patrick’s Hall\n1600 – 1700: Fortress to Palace"
 								},
 								{
-									"ContentText": "Dublin Castle is a prison, barracks and official government  residence. Destroyed by fire in 1684 and rebuilt.",
-									"ContentImageAsset": "STAHBTMK.jpg"
+									"ContentText": "Dublin Castle  is a prison, barracks and official government  residence. Destroyed by fire in 1684 and rebuilt."
 								}
 							],
-							"MarkerAsset": "FWIWAPJS.jpg"
+							"MarkerAsset": "STAHBTMK.jpg"
 						},
 						{
-							"Name": "New Hotspot",
+							"Name": "Upper Courtyard",
 							"MapUv": [
-								0.5,
-								0.5
+								0.5649026831900562,
+								0.6017986510117412
 							],
 							"Storys": [
 								{
 									"ContentText": "Upper Courtyard \n1700 – 1800: Georgian  Palace"
 								},
 								{
-									"ContentText": "Elegant Georgian buildings at the heart English power and fashionable Irish society.",
+									"ContentText": "Elegant Georgian buildings at the heart English power and fashionable Irish society. ",
 									"ContentImageAsset": "WLPBDFLT.jpg"
 								},
 								{
-									"ContentModelAsset": "HEIHTWYO.zip",
-									"ContentText": "Wigs like this were the height of fashion."
+									"ContentImageAsset": "DDOYVCPY.jpg"
+								},
+								{
+									"ContentImageAsset": "VPENWNII.jpg"
+								},
+								{
+									"ContentImageAsset": "NSGELDCJ.jpg"
+								},
+								{
+									"ContentImageAsset": "JGOFONYF.jpg"
+								},
+								{
+									"ContentImageAsset": "KLRIOOZL.jpg"
+								},
+								{
+									"ContentImageAsset": "WCYOQXXX.jpg"
+								},
+								{
+									"ContentImageAsset": "HHCZBOPD.jpg"
+								},
+								{
+									"ContentImageAsset": "PMWSWFHJ.jpg"
 								}
 							],
-							"MarkerAsset": "EXJCINJV.jpg"
+							"MarkerAsset": "WLPBDFLT.jpg"
+						},
+						{
+							"Name": "State Apartments",
+							"MapUv": [
+								0.6220646793941423,
+								0.5298526105420934
+							],
+							"Storys": [
+								{
+									"ContentText": "State Apartments\n1800 – 1900: Show & ceremony"
+								},
+								{
+									"ContentText": "Dublin Castle is the ceremonial centre of Ireland, hosting kings, queens and grand events.",
+									"ContentImageAsset": "WDISEZDS.jpg"
+								}
+							],
+							"MarkerAsset": "WDISEZDS.jpg"
+						},
+						{
+							"Name": "Law Courts",
+							"MapUv": [
+								0.12785158721298054,
+								0.5298526105420934
+							],
+							"Storys": [
+								{
+									"ContentText": "Law Courts\n1800 – 1900: Power & Control"
+								},
+								{
+									"ContentText": "The Castle is barracks for the British army and police headquarters. \nMarches and parades show imperial power.",
+									"ContentImageAsset": "HJHGXVTU.jpg"
+								}
+							],
+							"MarkerAsset": "HJHGXVTU.jpg"
+						},
+						{
+							"Name": "Bedford Tower",
+							"MapUv": [
+								0.3684083212385099,
+								0.4419185610791906
+							],
+							"Storys": [
+								{
+									"ContentText": "Bedford Tower\n20th century: Revolution & Change"
+								},
+								{
+									"ContentText": "Dublin Castle is a symbolic target for resistance. \nThe  Viceroy’s official decorations are stolen in a daring raid of the Bedford Tower.",
+									"ContentImageAsset": "DGMYMZJN.jpg"
+								}
+							],
+							"MarkerAsset": "DGMYMZJN.jpg"
+						},
+						{
+							"Name": "Palace Street Gate",
+							"MapUv": [
+								0.981708905511518,
+								0.6777416937297027
+							],
+							"Storys": [
+								{
+									"ContentText": "Palace Street Gate\n1922: Liberation"
+								},
+								{
+									"ContentText": "Michael Collins arrives at Dublin Castle for the handover of power from Britain to the new Free State of Ireland.",
+									"ContentImageAsset": "CSTFRKXA.jpg"
+								}
+							],
+							"MarkerAsset": "CSTFRKXA.jpg"
+						},
+						{
+							"Name": "Castle Connections",
+							"MapUv": [
+								0.7304342971977225,
+								0.5978016487634275
+							],
+							"Storys": [
+								{
+									"ContentText": "Castle Connections\nHeart of Ireland"
+								},
+								{
+									"ContentText": "Dublin Castle lies at the heart of Irish history.  \nIt's story connects with sites across the city and the nation.",
+									"ContentImageAsset": "LIKYTBOQ.jpg"
+								}
+							],
+							"MarkerAsset": "LIKYTBOQ.jpg"
 						}
 					],
-					"ThumbnailAsset": "CITODNRC.jpg",
-					"MapAsset": "IERGKYUB.jpg"
-				},
-				{
-					"Name": "New Trail",
-					"Hotspots": []
+					"MapAsset": "IERGKYUB.jpg",
+					"ThumbnailAsset": "HHEQRTVL.jpg"
 				}
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
