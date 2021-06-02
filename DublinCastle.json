@@ -99,7 +99,9 @@
 									"ContentImageAsset": "VPENWNII.jpg",
 									"ContentText": "Dublin Alphonse Dousseau"
 								},
-								{}
+								{
+									"ContentImageAsset": "NSGELDCJ.jpg"
+								}
 							],
 							"MarkerAsset": "WLPBDFLT.jpg"
 						}
