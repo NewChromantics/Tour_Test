@@ -140,7 +140,9 @@
 								0.5
 							],
 							"Storys": [
-								{}
+								{
+									"ContentText": "Palace Street Gate\n1922: Liberation"
+								}
 							]
 						}
 					],
