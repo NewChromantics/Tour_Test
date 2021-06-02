@@ -201,7 +201,8 @@
 									"ContentText": "Dublin Castle lies at the heart of Irish history.  \nIts  story connects with sites across the city and the nation. ",
 									"ContentImageAsset": "LIKYTBOQ.jpg"
 								}
-							]
+							],
+							"MarkerAsset": "LIKYTBOQ.jpg"
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
