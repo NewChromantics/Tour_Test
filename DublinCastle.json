@@ -113,7 +113,8 @@
 									"ContentText": "The Castle is barracks for the British army and police headquarters. \nMarches and parades show imperial power.",
 									"ContentImageAsset": "HJHGXVTU.jpg"
 								}
-							]
+							],
+							"MarkerAsset": "HJHGXVTU.jpg"
 						}
 					],
 					"MapAsset": "IERGKYUB.jpg",
