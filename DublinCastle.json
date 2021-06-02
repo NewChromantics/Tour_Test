@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "db76e89eec2b9529a9f3c3e12025de46dbce464f",
+		"Sha": "16a4326eb79378e2bf3e7472d64cd00747e38c07",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-02T11:58:55.000Z",
+		"Date": "2021-06-02T11:44:38.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -17,50 +17,77 @@
 						{
 							"Name": "Dubh Linn Garden",
 							"MapUv": [
-								0.23264858025380522,
-								0.4575318511116663
+								0.5,
+								0.5
 							],
 							"Storys": [
 								{
 									"ContentText": "Dubh Linn Garden\nPre 1200: Before the Castle"
 								},
 								{
-									"ContentText": "Viking settlement and port on the site with timber fortifications."
+									"ContentText": "Viking settlement and port on the site with timber fortifications.",
+									"ContentImageAsset": "UIPPSYSA.jpg"
 								}
-							]
+							],
+							"MarkerAsset": "YUFFHIFS.jpg"
 						},
 						{
 							"Name": "Record Tower",
 							"MapUv": [
-								0.22312158088645753,
-								0.16575068698476142
+								0.5,
+								0.5
 							],
 							"Storys": [
 								{
 									"ContentText": "Record Tower\n1200 – 1600: Fortress"
 								},
 								{
-									"ContentText": "England’s King John orders a stone castle to be built. This tower remains."
+									"ContentText": "England’s King John orders a stone castle to be built. This tower remains.",
+									"ContentImageAsset": "FGHWDKDP.jpg"
 								}
-							]
+							],
+							"MarkerAsset": "QGTOXKVS.jpg"
 						},
 						{
 							"Name": "St Patrick’s Hall",
 							"MapUv": [
-								0.7113802984630271,
-								0.3416187859105671
+								0.5,
+								0.5
 							],
 							"Storys": [
 								{
 									"ContentText": "St Patrick’s Hall\n1600 – 1700: Fortress to Palace"
 								},
 								{
-									"ContentText": "Dublin Castle  is a prison, barracks and official government  residence. Destroyed by fire in 1684 and rebuilt."
+									"ContentText": "Dublin Castle is a prison, barracks and official government  residence. Destroyed by fire in 1684 and rebuilt.",
+									"ContentImageAsset": "STAHBTMK.jpg"
 								}
-							]
+							],
+							"MarkerAsset": "FWIWAPJS.jpg"
+						},
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [
+								{
+									"ContentText": "Upper Courtyard \n1700 – 1800: Georgian  Palace"
+								},
+								{
+									"ContentText": "Elegant Georgian buildings at the heart English power and fashionable Irish society.",
+									"ContentImageAsset": "WLPBDFLT.jpg"
+								},
+								{
+									"ContentModelAsset": "HEIHTWYO.zip",
+									"ContentText": "Wigs like this were the height of fashion."
+								}
+							],
+							"MarkerAsset": "EXJCINJV.jpg"
 						}
 					],
-					"MapAsset": "IERGKYUB.jpg"
+					"ThumbnailAsset": null
 				},
 				{
 					"Name": "New Trail",
