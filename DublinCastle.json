@@ -28,6 +28,14 @@
 									"ContentText": "Viking settlement and port on the site with timber fortifications."
 								}
 							]
+						},
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": []
 						}
 					]
 				},
