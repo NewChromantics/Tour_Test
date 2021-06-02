@@ -103,7 +103,9 @@
 									"ContentImageAsset": "NSGELDCJ.jpg",
 									"ContentText": "Industries of Dublin 1887"
 								},
-								{}
+								{
+									"ContentImageAsset": "JGOFONYF.jpg"
+								}
 							],
 							"MarkerAsset": "WLPBDFLT.jpg"
 						}
