@@ -91,7 +91,9 @@
 								{
 									"ContentImageAsset": "KLRIOOZL.jpg"
 								},
-								{}
+								{
+									"ContentImageAsset": null
+								}
 							],
 							"MarkerAsset": "WLPBDFLT.jpg"
 						},
