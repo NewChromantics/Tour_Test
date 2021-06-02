@@ -161,7 +161,8 @@
 									"ContentText": "Castle Connections\nHeart of Ireland"
 								},
 								{
-									"ContentText": "Dublin Castle lies at the heart of Irish history.  \nIt's story connects with sites across the city and the nation."
+									"ContentText": "Dublin Castle lies at the heart of Irish history.  \nIt's story connects with sites across the city and the nation.",
+									"ContentImageAsset": "LIKYTBOQ.jpg"
 								}
 							]
 						}
