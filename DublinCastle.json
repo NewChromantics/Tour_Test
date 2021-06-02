@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "1eb67231743d066b0fc05ccabfbd0b7445f93b4d",
+		"Sha": "4bd3608bd92bf319086f72d3fe043fdfb20aff3d",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-02T15:17:40.000Z",
+		"Date": "2021-06-02T15:41:26.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -183,7 +183,8 @@
 								{
 									"ContentText": "Michael Collins arrives at Dublin Castle for the handover of power from Britain to the new Free State of Ireland.",
 									"ContentImageAsset": "CSTFRKXA.jpg"
-								}
+								},
+								{}
 							],
 							"MarkerAsset": "CSTFRKXA.jpg"
 						},
