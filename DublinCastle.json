@@ -75,7 +75,8 @@
 				},
 				{
 					"Name": "The Viking Excavation",
-					"Hotspots": []
+					"Hotspots": [],
+					"ThumbnailAsset": "XHDMYNRK.jpg"
 				}
 			],
 			"ThumbnailAsset": "AVNSRLDE.jpg",
