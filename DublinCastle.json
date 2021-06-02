@@ -69,7 +69,9 @@
 								0.5
 							],
 							"Storys": [
-								{}
+								{
+									"ContentText": "Upper Courtyard \n1700 – 1800: Georgian  Palace"
+								}
 							],
 							"MarkerAsset": "OPKHAEDF.jpg"
 						}
