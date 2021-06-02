@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "c720450754f64395c169b941cfa16d34ad11037a",
+		"Sha": "db76e89eec2b9529a9f3c3e12025de46dbce464f",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-02T11:35:55.000Z",
+		"Date": "2021-06-02T11:58:55.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -59,7 +59,8 @@
 								}
 							]
 						}
-					]
+					],
+					"MapAsset": "IERGKYUB.jpg"
 				},
 				{
 					"Name": "New Trail",
