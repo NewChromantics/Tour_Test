@@ -45,7 +45,9 @@
 									"ContentText": "England’s King John orders a stone castle to be built. This tower remains.",
 									"ContentImageAsset": "FGHWDKDP.jpg"
 								},
-								{}
+								{
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3"
+								}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
 						},
