@@ -184,7 +184,9 @@
 									"ContentText": "Michael Collins arrives at Dublin Castle for the handover of power from Britain to the new Free State of Ireland.",
 									"ContentImageAsset": "CSTFRKXA.jpg"
 								},
-								{}
+								{
+									"ContentVideoAsset": null
+								}
 							],
 							"MarkerAsset": "CSTFRKXA.jpg"
 						},
