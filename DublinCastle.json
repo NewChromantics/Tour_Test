@@ -149,6 +149,14 @@
 								}
 							],
 							"MarkerAsset": "CSTFRKXA.jpg"
+						},
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": []
 						}
 					],
 					"MapAsset": "IERGKYUB.jpg",
