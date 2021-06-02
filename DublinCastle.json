@@ -107,7 +107,16 @@
 				},
 				{
 					"Name": "The Medieval Tower",
-					"Hotspots": [],
+					"Hotspots": [
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": []
+						}
+					],
 					"ThumbnailAsset": "EFNNTVQL.jpg"
 				}
 			],
