@@ -86,7 +86,9 @@
 								{
 									"ContentText": "A Subterranean Chamber Beneath the Ground of Dublin Castle\n\nBelow the Castle, excavations have uncovered parts of the structure of the medieval castle alongside the remains of some of Viking Dublin’s original defences. These defences take the form of a stone covered embankment, a section of which has been preserved within the massive circular walls of the thirteenth-century Powder Tower.\n\nVisible to visitors is a section of the Castle’s medieval curtain wall with a postern gate and a set of steps that led down to the original moat. The River Poddle, which still flows under the Castle grounds today, would have been diverted in order to create a moat that surrounded the Castle. Other medieval features on the site include part of the early town wall with an archway that allowed the moat to pass under it (blocked up c.1400)."
 								},
-								{}
+								{
+									"ContentImageAsset": "FGIFFXNU.jpg"
+								}
 							],
 							"MarkerAsset": "QXINRPZY.jpg"
 						}
