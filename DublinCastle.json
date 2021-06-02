@@ -77,7 +77,9 @@
 								0.5
 							],
 							"Storys": [
-								{}
+								{
+									"ContentText": "The James Connolly Room is an important landmark in the story of the Easter Rising of 1916. The room was once part of the Viceroy’s quarters. In 1915 this room, together with the rest of the State Apartments, became a Red Cross Hospital for soldiers wounded in World War I. It was here, in 1916, that James Connolly was treated for the injuries he had sustained in leading a rebellion against British rule in Ireland. Known as the Easter Rising, the rebellion resulted in the execution of the rebel leaders. On 12 May 1916, James Connolly was brought from here to be executed at Kilmainham Gaol."
+								}
 							],
 							"MarkerAsset": "FZUCFCWT.jpg"
 						}
