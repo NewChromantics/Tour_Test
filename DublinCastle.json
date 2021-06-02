@@ -1,3 +1,16 @@
 {
-	"Name": "Dublin Castle"
+	"Name": "Dublin Castle",
+	"CommitMeta": {
+		"Sha": "a33e51aed340ba99a4379e2396fb2fd47ba100b6",
+		"AuthorName": "Graham Reeves",
+		"AuthorEmail": "graham@grahamreeves.com",
+		"Date": "2021-06-02T11:22:27.000Z",
+		"Message": "New DublinCastle org\n\n"
+	},
+	"Locations": [
+		{
+			"Name": "New Location",
+			"Trails": []
+		}
+	]
 }
