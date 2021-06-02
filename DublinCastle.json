@@ -36,6 +36,9 @@
 								},
 								{
 									"ContentImageAsset": "KKAPVWAL.jpg"
+								},
+								{
+									"ContentModelAsset": "Model.zip"
 								}
 							],
 							"MarkerAsset": null
