@@ -25,11 +25,9 @@
 									"ContentText": "Dubh Linn Garden\nPre 1200: Before the Castle"
 								},
 								{
-									"ContentText": "Viking settlement and port on the site with timber fortifications.",
-									"ContentImageAsset": "UIPPSYSA.jpg"
+									"ContentText": "Viking settlement and port on the site with timber fortifications."
 								}
-							],
-							"MarkerAsset": "YUFFHIFS.jpg"
+							]
 						},
 						{
 							"Name": "Record Tower",
@@ -42,11 +40,9 @@
 									"ContentText": "Record Tower\n1200 – 1600: Fortress"
 								},
 								{
-									"ContentText": "England’s King John orders a stone castle to be built. This tower remains.",
-									"ContentImageAsset": "FGHWDKDP.jpg"
+									"ContentText": "England’s King John orders a stone castle to be built. This tower remains."
 								}
-							],
-							"MarkerAsset": "QGTOXKVS.jpg"
+							]
 						},
 						{
 							"Name": "St Patrick’s Hall",
@@ -59,32 +55,9 @@
 									"ContentText": "St Patrick’s Hall\n1600 – 1700: Fortress to Palace"
 								},
 								{
-									"ContentText": "Dublin Castle is a prison, barracks and official government  residence. Destroyed by fire in 1684 and rebuilt.",
-									"ContentImageAsset": "STAHBTMK.jpg"
+									"ContentText": "Dublin Castle  is a prison, barracks and official government  residence. Destroyed by fire in 1684 and rebuilt."
 								}
-							],
-							"MarkerAsset": "FWIWAPJS.jpg"
-						},
-						{
-							"Name": "New Hotspot",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"ContentText": "Upper Courtyard \n1700 – 1800: Georgian  Palace"
-								},
-								{
-									"ContentText": "Elegant Georgian buildings at the heart English power and fashionable Irish society.",
-									"ContentImageAsset": "WLPBDFLT.jpg"
-								},
-								{
-									"ContentModelAsset": "HEIHTWYO.zip",
-									"ContentText": "Wigs like this were the height of fashion."
-								}
-							],
-							"MarkerAsset": "EXJCINJV.jpg"
+							]
 						}
 					]
 				},
@@ -95,7 +68,7 @@
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
 			"AboutText": "Erected in the early thirteenth century on the site of a Viking settlement, Dublin Castle served for centuries as the headquarters of English, and later British, administration in Ireland. In 1922, following Ireland’s independence, Dublin Castle was handed over to the new Irish government. It is now a major government complex and a key tourist attraction. We hope you enjoy your visit.",
-			"ThumbnailAsset": "CITODNRC.jpg"
+			"ThumbnailAsset": "VNIDCEKA.jpg"
 		}
 	],
 	"TermsAndConditions": "MIT License\n\nCopyright (c) [year] [fullname]\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE."
