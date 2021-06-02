@@ -83,7 +83,9 @@
 									"ContentModelAsset": "HEIHTWYO.zip",
 									"ContentText": "Wigs like this were the height of fashion."
 								},
-								{}
+								{
+									"ContentImageAsset": "DDOYVCPY.jpg"
+								}
 							],
 							"MarkerAsset": "WLPBDFLT.jpg"
 						}
