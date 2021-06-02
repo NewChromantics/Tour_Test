@@ -167,7 +167,8 @@
 									"ContentText": "Dublin Castle is a symbolic target for resistance. \nThe  Viceroy’s official decorations are stolen in a daring raid of the Bedford Tower. ",
 									"ContentImageAsset": "DGMYMZJN.jpg"
 								}
-							]
+							],
+							"MarkerAsset": "DGMYMZJN.jpg"
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
