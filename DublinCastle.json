@@ -27,6 +27,9 @@
 								{
 									"ContentText": "Viking settlement and port on the site with timber fortifications.",
 									"ContentImageAsset": "UIPPSYSA.jpg"
+								},
+								{
+									"ContentModelAsset": "Model.zip"
 								}
 							],
 							"MarkerAsset": "UIPPSYSA.jpg"
