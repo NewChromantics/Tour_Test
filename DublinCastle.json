@@ -22,7 +22,8 @@
 							],
 							"Storys": [
 								{
-									"ContentModelAsset": "SHFJIGVQ.zip"
+									"ContentModelAsset": "SHFJIGVQ.zip",
+									"ContentText": "Testing"
 								},
 								{
 									"ContentText": "Viking settlement and port on the site with timber fortifications.",
