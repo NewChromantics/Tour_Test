@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "3b5c28f7da7337a74e835dc6ccf50f653cafff92",
+		"Sha": "093b31f9221b389ad3492ec838a0e21fba6013ca",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-02T16:00:54.000Z",
+		"Date": "2021-06-03T14:34:57.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -83,10 +83,6 @@
 								{
 									"ContentText": "Elegant Georgian buildings at the heart English power and fashionable Irish society.",
 									"ContentImageAsset": "WLPBDFLT.jpg"
-								},
-								{
-									"ContentModelAsset": "HEIHTWYO.zip",
-									"ContentText": "Wigs like this were the height of fashion."
 								},
 								{
 									"ContentImageAsset": "DDOYVCPY.jpg",
