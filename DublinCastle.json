@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "093b31f9221b389ad3492ec838a0e21fba6013ca",
+		"Sha": "611d628856a7a953c12951dae0764995aca70ccf",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-03T14:34:57.000Z",
+		"Date": "2021-06-03T15:28:01.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -22,7 +22,7 @@
 							],
 							"Storys": [
 								{
-									"ContentModelAsset": "ZFEJEYFB.zip"
+									"ContentModelAsset": "SHFJIGVQ.zip"
 								},
 								{
 									"ContentText": "Viking settlement and port on the site with timber fortifications.",
