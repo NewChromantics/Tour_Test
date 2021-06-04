@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "55a381499af2e8eaa4af087618d43e342afd1079",
+		"Sha": "bc60e75458792e93fde8ff921ca677cbb1ce2d6f",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-03T15:51:42.000Z",
+		"Date": "2021-06-03T16:53:08.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -198,8 +198,8 @@
 						{
 							"Name": "Castle Connections",
 							"MapUv": [
-								0.5172676863533177,
-								0.6737446914813889
+								0.5008365138286193,
+								0.6245652861207714
 							],
 							"Storys": [
 								{
