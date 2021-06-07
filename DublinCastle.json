@@ -47,6 +47,9 @@
 									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
 									"ContentImageAsset": "QMXKYJXP.jpg",
 									"ContentText": "King John's Speech"
+								},
+								{
+									"ContentModelAsset": "Model.zip"
 								}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
