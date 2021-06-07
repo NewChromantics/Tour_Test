@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "79a52b3ceef0ee7d817c94241c00b9916d4dfec2",
+		"Sha": "c12c1fc4d5e99104da4572bb2db6ec8e9757daa0",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-07T13:41:34.000Z",
+		"Date": "2021-06-07T13:54:36.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -47,10 +47,6 @@
 									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
 									"ContentImageAsset": "QMXKYJXP.jpg",
 									"ContentText": "King John's Speech"
-								},
-								{
-									"ContentModelAsset": null,
-									"ContentText": "The Record Tower"
 								}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
