@@ -48,7 +48,8 @@
 									"ContentText": "Record Tower"
 								},
 								{
-									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3"
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
+									"ContentImageAsset": "QMXKYJXP.jpg"
 								}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
