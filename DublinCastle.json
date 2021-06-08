@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "e7e153389c09e13f40d4e53cb6e3ede8aadc7784",
+		"Sha": "14c0c1d8a6fc86ef0181a584480bee98f4ab2082",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-08T09:34:23.000Z",
+		"Date": "2021-06-08T11:30:25.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -40,7 +40,7 @@
 							],
 							"Storys": [
 								{
-									"ContentModelAsset": "QNVXUXRP.zip",
+									"ContentModelAsset": "HEIHTWYO.zip",
 									"ContentText": "Wig"
 								},
 								{
