@@ -47,7 +47,9 @@
 									"ContentImageAsset": "FGHWDKDP.jpg",
 									"ContentText": "Record Tower"
 								},
-								{}
+								{
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3"
+								}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
 						},
