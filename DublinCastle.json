@@ -43,7 +43,9 @@
 									"ContentModelAsset": "HEIHTWYO.zip",
 									"ContentText": "Wig"
 								},
-								{}
+								{
+									"ContentImageAsset": "FGHWDKDP.jpg"
+								}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
 						},
