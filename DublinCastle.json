@@ -46,7 +46,8 @@
 								{
 									"ContentImageAsset": "FGHWDKDP.jpg",
 									"ContentText": "Record Tower"
-								}
+								},
+								{}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
 						},
