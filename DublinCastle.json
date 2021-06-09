@@ -242,7 +242,11 @@
 								0.21380115971401228,
 								0.4069132466362664
 							],
-							"Storys": []
+							"Storys": [
+								{
+									"ContentModelAsset": "Model.zip"
+								}
+							]
 						}
 					],
 					"MapAsset": "FGHWDKDP.jpg"
