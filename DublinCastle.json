@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "36cf8c559203a9232e586223a0190fd0e6f7b331",
+		"Sha": "b655cd1385c2c1e68ebab0690ee15f0f23332362",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-08T17:30:59.000Z",
+		"Date": "2021-06-09T07:43:09.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -142,8 +142,8 @@
 						{
 							"Name": "Law Courts",
 							"MapUv": [
-								0.7244799225931301,
-								0.5978016487634275
+								0.7333565848214286,
+								0.595014880952381
 							],
 							"Storys": [
 								{
