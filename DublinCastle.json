@@ -231,6 +231,14 @@
 								0.36607930342096867
 							],
 							"Storys": []
+						},
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": []
 						}
 					],
 					"MapAsset": "FGHWDKDP.jpg"
