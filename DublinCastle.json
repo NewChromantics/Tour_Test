@@ -249,7 +249,8 @@
 								},
 								{
 									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
-									"ContentVideoAsset": null
+									"ContentVideoAsset": null,
+									"ContentImageAsset": "QMXKYJXP.jpg"
 								}
 							]
 						}
