@@ -245,7 +245,8 @@
 							"Storys": [
 								{
 									"ContentModelAsset": "SHFJIGVQ.zip"
-								}
+								},
+								{}
 							]
 						}
 					],
