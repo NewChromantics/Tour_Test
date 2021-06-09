@@ -230,7 +230,11 @@
 								0.6281455835162979,
 								0.42252622492446845
 							],
-							"Storys": []
+							"Storys": [
+								{
+									"ContentModelAsset": "Model.zip"
+								}
+							]
 						},
 						{
 							"Name": "New Hotspot",
