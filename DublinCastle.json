@@ -223,7 +223,16 @@
 				},
 				{
 					"Name": "New Trail",
-					"Hotspots": []
+					"Hotspots": [
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": []
+						}
+					]
 				}
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
