@@ -52,7 +52,9 @@
 									"ContentImageAsset": "QMXKYJXP.jpg",
 									"ContentText": "King Johns Speech"
 								},
-								{}
+								{
+									"ContentText": "Some text"
+								}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
 						},
