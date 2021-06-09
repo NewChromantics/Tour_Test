@@ -246,7 +246,9 @@
 								{
 									"ContentModelAsset": "SHFJIGVQ.zip"
 								},
-								{}
+								{
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3"
+								}
 							]
 						}
 					],
