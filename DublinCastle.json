@@ -265,7 +265,12 @@
 		},
 		{
 			"Name": "Forder's Castle",
-			"Trails": [],
+			"Trails": [
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
+			],
 			"ThumbnailAsset": "OPKHAEDF.jpg",
 			"AboutText": "A very pretty castle"
 		}
