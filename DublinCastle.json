@@ -272,7 +272,8 @@
 				},
 				{
 					"Name": "Trail 1",
-					"Hotspots": []
+					"Hotspots": [],
+					"ThumbnailAsset": "UIPPSYSA.jpg"
 				}
 			],
 			"ThumbnailAsset": "OPKHAEDF.jpg",
