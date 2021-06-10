@@ -299,7 +299,8 @@
 			"Trails": [
 				{
 					"Name": "New Trail",
-					"Hotspots": []
+					"Hotspots": [],
+					"MapAsset": "IERGKYUB.jpg"
 				}
 			]
 		}
