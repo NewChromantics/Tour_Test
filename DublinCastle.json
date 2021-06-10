@@ -280,7 +280,9 @@
 								0.39887925110231687
 							],
 							"Storys": [
-								{}
+								{
+									"ContentText": "Hello Text"
+								}
 							],
 							"MarkerAsset": "JGOFONYF.jpg"
 						}
