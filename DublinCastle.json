@@ -310,6 +310,9 @@
 								{
 									"ContentText": "HELFLGNLERNGLDSNFG",
 									"ContentImageAsset": "CITODNRC.jpg"
+								},
+								{
+									"ContentModelAsset": "Model.zip"
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
