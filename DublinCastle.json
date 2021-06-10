@@ -281,7 +281,8 @@
 							],
 							"Storys": [
 								{
-									"ContentText": "Hello Text"
+									"ContentText": "Hello Text",
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3"
 								}
 							],
 							"MarkerAsset": "JGOFONYF.jpg"
