@@ -316,7 +316,8 @@
 								},
 								{
 									"ContentModelAsset": "Model.zip"
-								}
+								},
+								{}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
 						},
