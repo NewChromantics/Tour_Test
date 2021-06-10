@@ -279,7 +279,11 @@
 								0.13556780258362297,
 								0.39887925110231687
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"ContentModelAsset": "Model.zip"
+								}
+							],
 							"MarkerAsset": "JGOFONYF.jpg"
 						}
 					],
