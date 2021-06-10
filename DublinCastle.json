@@ -308,7 +308,8 @@
 							],
 							"Storys": [
 								{
-									"ContentText": "HELFLGNLERNGLDSNFG"
+									"ContentText": "HELFLGNLERNGLDSNFG",
+									"ContentImageAsset": "CITODNRC.jpg"
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
