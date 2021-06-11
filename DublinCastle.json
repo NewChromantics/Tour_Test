@@ -222,7 +222,8 @@
 							"Storys": [
 								{
 									"ContentModelAsset": "Model.zip"
-								}
+								},
+								{}
 							]
 						}
 					],
