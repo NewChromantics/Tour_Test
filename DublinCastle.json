@@ -34,7 +34,9 @@
 									"ContentImageAsset": "QMXKYJXP.jpg",
 									"ContentText": "King John rapping"
 								},
-								{}
+								{
+									"ContentVideoAsset": "dublincastle(1922).mp4"
+								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
 						},
