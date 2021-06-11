@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "daffc3f3ed1e0620f98dda8b0340295a723b4ccb",
+		"Sha": "5b6a7b0a193b0dc13e67d23480afa0e42d6adcb5",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-10T19:43:45.000Z",
+		"Date": "2021-06-11T12:57:05.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -30,7 +30,7 @@
 									"ContentImageAsset": "UIPPSYSA.jpg"
 								}
 							],
-							"MarkerAsset": "UIPPSYSA.jpg"
+							"MarkerAsset": "CITODNRC.jpg"
 						},
 						{
 							"Name": "Record Tower",
