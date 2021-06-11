@@ -29,7 +29,9 @@
 									"ContentText": "Viking settlement and port on the site with timber fortifications.",
 									"ContentImageAsset": "UIPPSYSA.jpg"
 								},
-								{}
+								{
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3"
+								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
 						},
