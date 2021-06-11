@@ -33,7 +33,8 @@
 									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
 									"ContentImageAsset": "QMXKYJXP.jpg",
 									"ContentText": "King John rapping"
-								}
+								},
+								{}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
 						},
