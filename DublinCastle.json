@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "45ecb91bd6a4df37d6d627b7ee70db1347d3b418",
+		"Sha": "b29508f8831bfa31252fb5c07250e8338fac5f49",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-11T15:15:36.000Z",
+		"Date": "2021-06-11T15:34:13.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -37,7 +37,8 @@
 								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
 									"ContentText": "Back in Timeeeeee"
-								}
+								},
+								{}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
 						},
