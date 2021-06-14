@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "b29508f8831bfa31252fb5c07250e8338fac5f49",
+		"Sha": "a5429ae993d6261f3e2962250210047b4600762f",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-11T15:34:13.000Z",
+		"Date": "2021-06-14T17:25:07.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -224,19 +224,6 @@
 								}
 							],
 							"MarkerAsset": "LIKYTBOQ.jpg"
-						},
-						{
-							"Name": "New Hotspot",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"ContentModelAsset": "Model.zip"
-								},
-								{}
-							]
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
