@@ -285,7 +285,8 @@
 				},
 				{
 					"Name": "New Trail",
-					"Hotspots": []
+					"Hotspots": [],
+					"ThumbnailAsset": "CITODNRC.jpg"
 				}
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
