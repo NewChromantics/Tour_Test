@@ -38,7 +38,9 @@
 									"ContentVideoAsset": "dublincastle(1922).mp4",
 									"ContentText": "Back in Timeeeeee"
 								},
-								{}
+								{
+									"ContentText": "Hello HotReload"
+								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
 						},
