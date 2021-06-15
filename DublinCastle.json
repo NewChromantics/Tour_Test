@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "7bdcbd3f6d75209fc8aa519e8da53cddc83032fb",
+		"Sha": "7e355f7ffe566d957e316ee2b0fd84461fb4e1db",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-14T18:44:03.000Z",
+		"Date": "2021-06-15T10:46:38.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -269,6 +269,10 @@
 						}
 					],
 					"MapAsset": "FGHWDKDP.jpg"
+				},
+				{
+					"Name": "New Trail",
+					"Hotspots": []
 				}
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
