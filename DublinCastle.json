@@ -353,7 +353,12 @@
 		},
 		{
 			"Name": "New Location",
-			"Trails": [],
+			"Trails": [
+				{
+					"Name": "New Trail",
+					"Hotspots": []
+				}
+			],
 			"ThumbnailAsset": "CITODNRC.jpg",
 			"AboutSubtitle": "",
 			"AboutText": ""
