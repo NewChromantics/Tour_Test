@@ -281,7 +281,9 @@
 			"Trails": [
 				{
 					"Name": "New Trail",
-					"Hotspots": []
+					"Hotspots": [],
+					"MapAsset": "FGHWDKDP.jpg",
+					"MapPinAsset": null
 				},
 				{
 					"Name": "Trail 52",
