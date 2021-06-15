@@ -268,7 +268,8 @@
 							]
 						}
 					],
-					"MapAsset": "FGHWDKDP.jpg"
+					"MapAsset": "FGHWDKDP.jpg",
+					"ThumbnailAsset": "FGHWDKDP.jpg"
 				}
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
