@@ -355,7 +355,7 @@
 			"Name": "New Location",
 			"Trails": [
 				{
-					"Name": "New Trail",
+					"Name": "Hot Reload",
 					"Hotspots": []
 				}
 			],
