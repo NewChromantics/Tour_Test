@@ -273,7 +273,8 @@
 				},
 				{
 					"Name": "New Trail",
-					"Hotspots": []
+					"Hotspots": [],
+					"ThumbnailAsset": "DDOYVCPY.jpg"
 				}
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
