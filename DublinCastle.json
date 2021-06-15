@@ -356,7 +356,16 @@
 			"Trails": [
 				{
 					"Name": "Hot Reload",
-					"Hotspots": []
+					"Hotspots": [
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": []
+						}
+					]
 				}
 			],
 			"ThumbnailAsset": "CITODNRC.jpg",
