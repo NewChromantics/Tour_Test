@@ -40,7 +40,8 @@
 								},
 								{
 									"ContentText": "Hello Reload"
-								}
+								},
+								{}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
 						},
