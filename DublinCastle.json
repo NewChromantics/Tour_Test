@@ -23,8 +23,11 @@
 							"Storys": [
 								{
 									"ContentModelAsset": "ZFEJEYFB.zip",
-									"ContentText": "Testing",
-									"Title": "Story Title"
+									"ContentText": "The Musket of Your",
+									"Title": "Model Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": null,
+									"ContentVideoAsset": null
 								},
 								{
 									"ContentText": "Viking settlement and port on the site with timber fortifications.",
