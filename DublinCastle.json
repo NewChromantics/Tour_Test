@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "2471ab6a65e834b6b5bdaf95a9804b1ca57a8692",
+		"Sha": "9f4e77d972a9a3db13d479e8d85bd5e48acb16ff",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-16T10:10:55.000Z",
+		"Date": "2021-06-16T13:40:10.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -23,23 +23,22 @@
 							"Storys": [
 								{
 									"ContentModelAsset": "ZFEJEYFB.zip",
-									"ContentText": "Testing"
+									"ContentText": "Testing",
+									"Title": "Story Title"
 								},
 								{
 									"ContentText": "Viking settlement and port on the site with timber fortifications.",
-									"ContentImageAsset": "CITODNRC.jpg"
-								},
-								{
-									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
-									"ContentImageAsset": "QMXKYJXP.jpg",
-									"ContentText": "King John rapping"
+									"ContentImageAsset": "CITODNRC.jpg",
+									"Title": "Story Title"
 								},
 								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
-									"ContentText": "Back in Timeeeeee"
+									"ContentText": "Back in Timeeeeee",
+									"Title": "Story Title"
 								},
 								{
-									"ContentText": "Hello Reload"
+									"ContentText": "Hello Reload",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
@@ -53,16 +52,19 @@
 							"Storys": [
 								{
 									"ContentModelAsset": "SHFJIGVQ.zip",
-									"ContentText": "Wig"
+									"ContentText": "Wig",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "FGHWDKDP.jpg",
-									"ContentText": "Record Tower"
+									"ContentText": "Record Tower",
+									"Title": "Story Title"
 								},
 								{
 									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
 									"ContentImageAsset": "QMXKYJXP.jpg",
-									"ContentText": "King Johns Speech"
+									"ContentText": "King Johns Speech",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "FGHWDKDP.jpg"
@@ -75,11 +77,13 @@
 							],
 							"Storys": [
 								{
-									"ContentText": "St Patrick’s Hall\n1600 – 1700: Fortress to Palace"
+									"ContentText": "St Patrick’s Hall\n1600 – 1700: Fortress to Palace",
+									"Title": "Story Title"
 								},
 								{
 									"ContentText": "Dublin Castle is a prison, barracks and official government  residence. Destroyed by fire in 1684 and rebuilt.",
-									"ContentImageAsset": "STAHBTMK.jpg"
+									"ContentImageAsset": "STAHBTMK.jpg",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "STAHBTMK.jpg"
@@ -92,43 +96,53 @@
 							],
 							"Storys": [
 								{
-									"ContentText": "Upper Courtyard \n1700 – 1800: Georgian  Palace"
+									"ContentText": "Upper Courtyard \n1700 – 1800: Georgian  Palace",
+									"Title": "Story Title"
 								},
 								{
 									"ContentText": "Elegant Georgian buildings at the heart English power and fashionable Irish society.",
-									"ContentImageAsset": "WLPBDFLT.jpg"
+									"ContentImageAsset": "WLPBDFLT.jpg",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "DDOYVCPY.jpg",
-									"ContentText": "Courtyard of the castle Dublin Ireland"
+									"ContentText": "Courtyard of the castle Dublin Ireland",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "GZKLTUTP.jpg",
-									"ContentText": "Duke and Duchess of York in Dublin - 1897"
+									"ContentText": "Duke and Duchess of York in Dublin - 1897",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "XNXVETBC.jpg",
-									"ContentText": "Dublin Castle"
+									"ContentText": "Dublin Castle",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "VPENWNII.jpg",
-									"ContentText": "Dublin Alphonse Dousseau"
+									"ContentText": "Dublin Alphonse Dousseau",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "NSGELDCJ.jpg",
-									"ContentText": "Industries of Dublin 1887"
+									"ContentText": "Industries of Dublin 1887",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "JGOFONYF.jpg",
-									"ContentText": "J. Tudor - A prospect of the Upper Castle Court from the council chamber Dublin c.1750"
+									"ContentText": "J. Tudor - A prospect of the Upper Castle Court from the council chamber Dublin c.1750",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "KLRIOOZL.jpg",
-									"ContentText": "Mary rose Barton 1891"
+									"ContentText": "Mary rose Barton 1891",
+									"Title": "Story Title"
 								},
 								{
 									"ContentImageAsset": "PMWSWFHJ.jpg",
-									"ContentText": "Michelangelo Hayes - St Patricks Day Military Parade at Dublin Castle"
+									"ContentText": "Michelangelo Hayes - St Patricks Day Military Parade at Dublin Castle",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "WLPBDFLT.jpg"
@@ -142,11 +156,13 @@
 							"Storys": [
 								{
 									"ContentText": "State Apartments\n1800 – 1900: Show & ceremony",
-									"ContentImageAsset": null
+									"ContentImageAsset": null,
+									"Title": "Story Title"
 								},
 								{
 									"ContentText": "Dublin Castle is the ceremonial centre of Ireland, hosting kings, queens and grand events. ",
-									"ContentImageAsset": "WDISEZDS.jpg"
+									"ContentImageAsset": "WDISEZDS.jpg",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "WDISEZDS.jpg"
@@ -159,11 +175,13 @@
 							],
 							"Storys": [
 								{
-									"ContentText": "Law Courts\n1800 – 1900:  Power & Control"
+									"ContentText": "Law Courts\n1800 – 1900:  Power & Control",
+									"Title": "Story Title"
 								},
 								{
 									"ContentText": "The Castle is barracks for the British army and police headquarters. \nMarches and  parades show imperial power.",
-									"ContentImageAsset": "KLRIOOZL.jpg"
+									"ContentImageAsset": "KLRIOOZL.jpg",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "HJHGXVTU.jpg"
@@ -176,11 +194,13 @@
 							],
 							"Storys": [
 								{
-									"ContentText": "Bedford Tower\n20th century:  Revolution & Change"
+									"ContentText": "Bedford Tower\n20th century:  Revolution & Change",
+									"Title": "Story Title"
 								},
 								{
 									"ContentText": "Dublin Castle is a symbolic target for resistance. \nThe  Viceroy’s official decorations are stolen in a daring raid of the Bedford Tower. ",
-									"ContentImageAsset": "DGMYMZJN.jpg"
+									"ContentImageAsset": "DGMYMZJN.jpg",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "DGMYMZJN.jpg"
@@ -193,17 +213,21 @@
 							],
 							"Storys": [
 								{
-									"ContentText": "Palace Street Gate\n1922: Liberation"
+									"ContentText": "Palace Street Gate\n1922: Liberation",
+									"Title": "Story Title"
 								},
 								{
 									"ContentText": "Michael Collins arrives at Dublin Castle for the handover of power from Britain to the new Free State of Ireland.",
-									"ContentImageAsset": "CSTFRKXA.jpg"
+									"ContentImageAsset": "CSTFRKXA.jpg",
+									"Title": "Story Title"
 								},
 								{
-									"ContentImageAsset": "YWLVMHUN.jpg"
+									"ContentImageAsset": "YWLVMHUN.jpg",
+									"Title": "Story Title"
 								},
 								{
-									"ContentVideoAsset": "dublincastle(1922).mp4"
+									"ContentVideoAsset": "dublincastle(1922).mp4",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "CSTFRKXA.jpg"
@@ -216,11 +240,13 @@
 							],
 							"Storys": [
 								{
-									"ContentText": "Castle Connections\nHeart of Ireland"
+									"ContentText": "Castle Connections\nHeart of Ireland",
+									"Title": "Story Title"
 								},
 								{
 									"ContentText": "Dublin Castle lies at the heart of Irish history.  \nIts  story connects with sites across the city and the nation. ",
-									"ContentImageAsset": "LIKYTBOQ.jpg"
+									"ContentImageAsset": "LIKYTBOQ.jpg",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "LIKYTBOQ.jpg"
@@ -244,7 +270,8 @@
 							],
 							"Storys": [
 								{
-									"ContentModelAsset": "SHFJIGVQ.zip"
+									"ContentModelAsset": "SHFJIGVQ.zip",
+									"Title": "Story Title"
 								}
 							]
 						},
@@ -257,13 +284,15 @@
 							"Storys": [
 								{
 									"ContentModelAsset": "SHFJIGVQ.zip",
-									"ContentText": "King John's Sci Fi Helmet"
+									"ContentText": "King John's Sci Fi Helmet",
+									"Title": "Story Title"
 								},
 								{
 									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
 									"ContentVideoAsset": null,
 									"ContentImageAsset": "QMXKYJXP.jpg",
-									"ContentText": "King john orders the building of dublin castle"
+									"ContentText": "King john orders the building of dublin castle",
+									"Title": "Story Title"
 								}
 							]
 						}
@@ -297,7 +326,8 @@
 							"Storys": [
 								{
 									"ContentText": "Hello Text",
-									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3"
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
+									"Title": "Story Title"
 								}
 							],
 							"MarkerAsset": "JGOFONYF.jpg"
@@ -325,15 +355,20 @@
 							"Storys": [
 								{
 									"ContentText": "HELFLGNLERNGLDSNFG",
-									"ContentImageAsset": "CITODNRC.jpg"
+									"ContentImageAsset": "CITODNRC.jpg",
+									"Title": "Story Title"
 								},
 								{
-									"ContentModelAsset": "Model.zip"
+									"ContentModelAsset": "Model.zip",
+									"Title": "Story Title"
 								},
 								{
-									"ContentModelAsset": "Model.zip"
+									"ContentModelAsset": "Model.zip",
+									"Title": "Story Title"
 								},
-								{}
+								{
+									"Title": "Story Title"
+								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
 						},
