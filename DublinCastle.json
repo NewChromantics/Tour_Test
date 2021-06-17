@@ -32,7 +32,10 @@
 								{
 									"ContentText": "Viking settlement and port on the site with timber fortifications.",
 									"ContentImageAsset": "CITODNRC.jpg",
-									"Title": "Story Title"
+									"Title": "Image Test",
+									"ContentAudioAsset": null,
+									"ContentVideoAsset": null,
+									"ContentModelAsset": null
 								},
 								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
