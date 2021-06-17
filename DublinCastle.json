@@ -405,7 +405,15 @@
 			"Name": "Jon's Castle",
 			"AboutSubtitle": "Helms Deep",
 			"AboutText": "This castle was featured in LOTR and is a real place in Burgess hill.",
-			"Trails": [],
+			"Trails": [
+				{
+					"Name": "Front Gate",
+					"Hotspots": [],
+					"ThumbnailAsset": "BRWFRRYT.jpg",
+					"MapAsset": "ZGFZRPQF.jpg",
+					"MapPinAsset": "TCNFTPMK.jpg"
+				}
+			],
 			"ThumbnailAsset": "MEBXIRVJ.jpg"
 		}
 	],
