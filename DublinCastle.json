@@ -415,7 +415,15 @@
 								0.8027626515720145,
 								0.4105273539276607
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Title": "Story Title",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": null,
+									"ContentVideoAsset": null,
+									"ContentModelAsset": "KQJXAZOM.zip"
+								}
+							],
 							"MarkerAsset": "QMXKYJXP.jpg"
 						}
 					],
