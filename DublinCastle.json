@@ -43,6 +43,14 @@
 									"ContentAudioAsset": null,
 									"ContentVideoAsset": null,
 									"ContentModelAsset": null
+								},
+								{
+									"Title": "Audio Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": null,
+									"ContentVideoAsset": null,
+									"ContentModelAsset": null,
+									"ContentText": "King John Rapping"
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
