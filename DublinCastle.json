@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "dbaa68e4c5b38d2685f1c303ef51d6a30bf73a03",
+		"Sha": "7d60dcddd83c880da49d9e24aa36e4332e5ba46c",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-17T10:35:30.000Z",
+		"Date": "2021-06-17T11:37:39.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -278,8 +278,8 @@
 						{
 							"Name": "Ghost Dog",
 							"MapUv": [
-								0.6281455835162979,
-								0.42252622492446845
+								0.6898769898904752,
+								0.555342271830832
 							],
 							"Storys": [
 								{
