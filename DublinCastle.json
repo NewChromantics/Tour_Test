@@ -408,7 +408,17 @@
 			"Trails": [
 				{
 					"Name": "Front Gate",
-					"Hotspots": [],
+					"Hotspots": [
+						{
+							"Name": "New Hotspot",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "QMXKYJXP.jpg"
+						}
+					],
 					"ThumbnailAsset": "BRWFRRYT.jpg",
 					"MapAsset": "ZGFZRPQF.jpg",
 					"MapPinAsset": "TCNFTPMK.jpg"
