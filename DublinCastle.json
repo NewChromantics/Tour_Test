@@ -40,7 +40,10 @@
 								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
 									"ContentText": "Back in Timeeeeee",
-									"Title": "Story Title"
+									"Title": "Video Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": null,
+									"ContentModelAsset": null
 								},
 								{
 									"Title": "Text Test",
