@@ -260,16 +260,6 @@
 							],
 							"MarkerAsset": "CSTFRKXA.jpg",
 							"Subtitle": ""
-						},
-						{
-							"Name": "Reload Test",
-							"Subtitle": "Reload",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [],
-							"MarkerAsset": "BRWFRRYT.jpg"
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
