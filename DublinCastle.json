@@ -280,6 +280,16 @@
 							],
 							"MarkerAsset": "LIKYTBOQ.jpg",
 							"Subtitle": ""
+						},
+						{
+							"Name": "Test reload",
+							"Subtitle": "reload",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "BRWFRRYT.jpg"
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
