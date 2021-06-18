@@ -260,36 +260,6 @@
 							],
 							"MarkerAsset": "CSTFRKXA.jpg",
 							"Subtitle": ""
-						},
-						{
-							"Name": "Castle Connections",
-							"MapUv": [
-								0.5008365138286193,
-								0.6245652861207714
-							],
-							"Storys": [
-								{
-									"ContentText": "Castle Connections\nHeart of Ireland",
-									"Title": "Story Title"
-								},
-								{
-									"ContentText": "Dublin Castle lies at the heart of Irish history.  \nIts  story connects with sites across the city and the nation. ",
-									"ContentImageAsset": "LIKYTBOQ.jpg",
-									"Title": "Story Title"
-								}
-							],
-							"MarkerAsset": "LIKYTBOQ.jpg",
-							"Subtitle": ""
-						},
-						{
-							"Name": "Test reload",
-							"Subtitle": "reload",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [],
-							"MarkerAsset": "BRWFRRYT.jpg"
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
