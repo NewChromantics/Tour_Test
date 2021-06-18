@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "b572a4686898bcdf2d6d60ad9b036a001a5d3b1c",
+		"Sha": "8e41a858234f37f9c0852cc248ef19863d2ebf4c",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-17T15:09:49.000Z",
+		"Date": "2021-06-18T11:20:37.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -341,7 +341,7 @@
 			"AboutSubtitle": "Welcome to Dublin Castle",
 			"AboutText": "Erected in the early thirteenth century on the site of a Viking settlement, Dublin Castle served for centuries as the headquarters of English, and later British, administration in Ireland. In 1922, following Ireland’s independence, Dublin Castle was handed over to the new Irish government. It is now a major government complex and a key tourist attraction. We hope you enjoy your visit.",
 			"ThumbnailAsset": "CITODNRC.jpg",
-			"Subtitle": ""
+			"Subtitle": "An old Castle"
 		},
 		{
 			"Name": "Forder's Castle",
