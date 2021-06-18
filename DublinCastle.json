@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "33333a238ae565b14fbf119512c8bdb39576d0ce",
+		"Sha": "b572a4686898bcdf2d6d60ad9b036a001a5d3b1c",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-17T13:47:10.000Z",
+		"Date": "2021-06-17T15:09:49.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -62,7 +62,8 @@
 									"ContentText": "King John in his prime"
 								}
 							],
-							"MarkerAsset": "CITODNRC.jpg"
+							"MarkerAsset": "CITODNRC.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "Record Tower",
@@ -88,7 +89,8 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "FGHWDKDP.jpg"
+							"MarkerAsset": "FGHWDKDP.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "St Patrick’s Hall",
@@ -107,7 +109,8 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "STAHBTMK.jpg"
+							"MarkerAsset": "STAHBTMK.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "Upper Courtyard",
@@ -166,7 +169,8 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "WLPBDFLT.jpg"
+							"MarkerAsset": "WLPBDFLT.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "State Apartments",
@@ -186,7 +190,8 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "WDISEZDS.jpg"
+							"MarkerAsset": "WDISEZDS.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "Law Courts",
@@ -205,7 +210,8 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "HJHGXVTU.jpg"
+							"MarkerAsset": "HJHGXVTU.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "Bedford Tower",
@@ -224,7 +230,8 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "DGMYMZJN.jpg"
+							"MarkerAsset": "DGMYMZJN.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "Palace Street Gate",
@@ -251,7 +258,8 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "CSTFRKXA.jpg"
+							"MarkerAsset": "CSTFRKXA.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "Castle Connections",
@@ -270,16 +278,19 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "LIKYTBOQ.jpg"
+							"MarkerAsset": "LIKYTBOQ.jpg",
+							"Subtitle": ""
 						}
 					],
 					"ThumbnailAsset": "HHEQRTVL.jpg",
 					"MapAsset": "IERGKYUB.jpg",
-					"MapPinAsset": "ALVONROF.png"
+					"MapPinAsset": "ALVONROF.png",
+					"Subtitle": ""
 				},
 				{
 					"Name": "New Trail",
-					"Hotspots": []
+					"Hotspots": [],
+					"Subtitle": ""
 				},
 				{
 					"Name": "Ghost Trail",
@@ -295,7 +306,8 @@
 									"ContentModelAsset": "SHFJIGVQ.zip",
 									"Title": "Story Title"
 								}
-							]
+							],
+							"Subtitle": ""
 						},
 						{
 							"Name": "Ghost Cat",
@@ -316,16 +328,20 @@
 									"ContentText": "King john orders the building of dublin castle",
 									"Title": "Story Title"
 								}
-							]
+							],
+							"Subtitle": ""
 						}
 					],
 					"MapAsset": "FGHWDKDP.jpg",
-					"ThumbnailAsset": "CITODNRC.jpg"
+					"ThumbnailAsset": "CITODNRC.jpg",
+					"Subtitle": "",
+					"MapPinAsset": "ALVONROF.png"
 				}
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
 			"AboutText": "Erected in the early thirteenth century on the site of a Viking settlement, Dublin Castle served for centuries as the headquarters of English, and later British, administration in Ireland. In 1922, following Ireland’s independence, Dublin Castle was handed over to the new Irish government. It is now a major government complex and a key tourist attraction. We hope you enjoy your visit.",
-			"ThumbnailAsset": "CITODNRC.jpg"
+			"ThumbnailAsset": "CITODNRC.jpg",
+			"Subtitle": ""
 		},
 		{
 			"Name": "Forder's Castle",
@@ -334,7 +350,8 @@
 					"Name": "New Trail",
 					"Hotspots": [],
 					"MapAsset": "CITODNRC.jpg",
-					"MapPinAsset": null
+					"MapPinAsset": null,
+					"Subtitle": ""
 				},
 				{
 					"Name": "Trail 52",
@@ -352,15 +369,18 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "JGOFONYF.jpg"
+							"MarkerAsset": "JGOFONYF.jpg",
+							"Subtitle": ""
 						}
 					],
-					"ThumbnailAsset": "UIPPSYSA.jpg"
+					"ThumbnailAsset": "UIPPSYSA.jpg",
+					"Subtitle": ""
 				}
 			],
 			"ThumbnailAsset": "CSTFRKXA.jpg",
 			"AboutText": "A very pretty castle",
-			"AboutSubtitle": ""
+			"AboutSubtitle": "",
+			"Subtitle": ""
 		},
 		{
 			"Name": "New Location",
@@ -392,7 +412,8 @@
 									"Title": "Story Title"
 								}
 							],
-							"MarkerAsset": "CITODNRC.jpg"
+							"MarkerAsset": "CITODNRC.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "New Hotspot",
@@ -400,15 +421,18 @@
 								0.5,
 								0.5
 							],
-							"Storys": []
+							"Storys": [],
+							"Subtitle": ""
 						}
 					],
-					"MapAsset": "IERGKYUB.jpg"
+					"MapAsset": "IERGKYUB.jpg",
+					"Subtitle": ""
 				}
 			],
 			"ThumbnailAsset": "GZKLTUTP.jpg",
 			"AboutSubtitle": "",
-			"AboutText": ""
+			"AboutText": "",
+			"Subtitle": ""
 		},
 		{
 			"Name": "Jon's Castle",
@@ -433,7 +457,8 @@
 									"ContentModelAsset": "KQJXAZOM.zip"
 								}
 							],
-							"MarkerAsset": "QMXKYJXP.jpg"
+							"MarkerAsset": "QMXKYJXP.jpg",
+							"Subtitle": ""
 						},
 						{
 							"Name": "New Hotspot",
@@ -442,22 +467,26 @@
 								0.39989572202877205
 							],
 							"Storys": [],
-							"MarkerAsset": null
+							"MarkerAsset": null,
+							"Subtitle": ""
 						}
 					],
 					"ThumbnailAsset": "DGMYMZJN.jpg",
 					"MapAsset": "ZGFZRPQF.jpg",
-					"MapPinAsset": "TCNFTPMK.jpg"
+					"MapPinAsset": "TCNFTPMK.jpg",
+					"Subtitle": ""
 				}
 			],
-			"ThumbnailAsset": "MEBXIRVJ.jpg"
+			"ThumbnailAsset": "MEBXIRVJ.jpg",
+			"Subtitle": ""
 		},
 		{
 			"Name": "New Location",
 			"AboutSubtitle": "",
 			"AboutText": "",
 			"Trails": [],
-			"ThumbnailAsset": "FGHWDKDP.jpg"
+			"ThumbnailAsset": "FGHWDKDP.jpg",
+			"Subtitle": ""
 		}
 	],
 	"TermsAndConditions": "MIT License\n\nCopyright (c) [year] [fullname]\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
