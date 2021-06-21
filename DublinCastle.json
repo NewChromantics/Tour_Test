@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "8e41a858234f37f9c0852cc248ef19863d2ebf4c",
+		"Sha": "7fec2b6b88505cfa522eac4414aba64ba04a2225",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-18T11:20:37.000Z",
+		"Date": "2021-06-18T13:48:37.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -276,11 +276,6 @@
 					"MapAsset": "IERGKYUB.jpg",
 					"MapPinAsset": "ALVONROF.png",
 					"Subtitle": "History is here"
-				},
-				{
-					"Name": "New Trail",
-					"Hotspots": [],
-					"Subtitle": ""
 				},
 				{
 					"Name": "Ghost Trail",
