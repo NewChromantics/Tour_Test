@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "14a4281b5f983a349f0a4eacd914a4ec98d09ff2",
+		"Sha": "f84764b60571794db918afadb6739008b6ceb18a",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-22T14:49:24.000Z",
+		"Date": "2021-06-22T14:53:08.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -510,6 +510,11 @@
 									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
 									"ContentImageAsset": "CITODNRC.jpg",
 									"ContentText": "Here is some audio"
+								},
+								{
+									"Template": "Text",
+									"Title": "sdfsf",
+									"ContentText": "undefinedfsddf"
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
