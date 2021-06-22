@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "80b46da0adda07e128791d55bd326c04d8fdb9de",
+		"Sha": "ece53a97b468a704fb48870dd2f057ff67f4a78f",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-22T14:14:58.000Z",
+		"Date": "2021-06-22T14:15:14.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -501,7 +501,8 @@
 							"Storys": [
 								{
 									"Template": "Text",
-									"Title": "Texting"
+									"Title": "Texting",
+									"ContentText": "Here is some text"
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg"
