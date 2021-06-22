@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "bf4c59d79cf43bf928a3b1621d9cd73bd812537e",
+		"Sha": "4cbe00822c821e78276f9763ebdf4d0a279270b4",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-22T16:22:04.000Z",
+		"Date": "2021-06-22T17:23:53.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -332,7 +332,7 @@
 				}
 			],
 			"AboutSubtitle": "Welcome to Dublin Castle",
-			"AboutText": "Erected in the early thirteenth century on the site of a Viking settlement, Dublin Castle served for centuries as the headquarters of English, and later British, administration in Ireland. In 1922, following Ireland’s independence, Dublin Castle was handed over to the new Irish government. It is now a major government complex and a key tourist attraction. We hope you enjoy your visit. Test",
+			"AboutText": "Erected in the early thirteenth century on the site of a Viking settlement, Dublin Castle served for centuries as the headquarters of English, and later British, administration in Ireland. In 1922, following Ireland’s independence, Dublin Castle was handed over to the new Irish government. It is now a major government complex and a key tourist attraction. We hope you enjoy your visit.",
 			"ThumbnailAsset": "CITODNRC.jpg",
 			"Subtitle": "An old Castle"
 		},
