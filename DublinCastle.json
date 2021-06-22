@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "1916bec7f192503f27b8dd18047a930904bc6265",
+		"Sha": "8ce1ba336455c3f23e5f09ae163257061dc15bd6",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-22T16:00:20.000Z",
+		"Date": "2021-06-22T16:14:03.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -373,58 +373,6 @@
 			"ThumbnailAsset": "CSTFRKXA.jpg",
 			"AboutText": "A very pretty castle",
 			"AboutSubtitle": "",
-			"Subtitle": ""
-		},
-		{
-			"Name": "New Location",
-			"Trails": [
-				{
-					"Name": "New Trail",
-					"Hotspots": [
-						{
-							"Name": "New Hotspot",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"ContentText": "HELFLGNLERNGLDSNFG",
-									"ContentImageAsset": "CITODNRC.jpg",
-									"Title": "Story Title"
-								},
-								{
-									"ContentModelAsset": "Model.zip",
-									"Title": "Story Title"
-								},
-								{
-									"ContentModelAsset": "Model.zip",
-									"Title": "Story Title"
-								},
-								{
-									"Title": "Story Title"
-								}
-							],
-							"MarkerAsset": "CITODNRC.jpg",
-							"Subtitle": ""
-						},
-						{
-							"Name": "New Hotspot",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [],
-							"Subtitle": ""
-						}
-					],
-					"MapAsset": "IERGKYUB.jpg",
-					"Subtitle": ""
-				}
-			],
-			"ThumbnailAsset": "GZKLTUTP.jpg",
-			"AboutSubtitle": "",
-			"AboutText": "",
 			"Subtitle": ""
 		},
 		{
