@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "d254e4ab2181c660f10cbcdc32dd21533c44e9af",
+		"Sha": "754bc091bca2d05001aad7a7c5f94a8c2d9ed187",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-22T15:46:55.000Z",
+		"Date": "2021-06-22T15:47:03.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -508,7 +508,7 @@
 								},
 								{
 									"Template": "Text",
-									"Title": "undefined",
+									"Title": "undefineda",
 									"ContentText": "undefined undefined"
 								}
 							],
