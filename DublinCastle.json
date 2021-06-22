@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "93bef78eacc8501529e71268f4eeda1bf4c566fc",
+		"Sha": "990b4c552df5487a8370141c0de40016e99c42c9",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-22T14:53:21.000Z",
+		"Date": "2021-06-22T14:53:49.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -60,6 +60,11 @@
 									"ContentVideoAsset": null,
 									"ContentModelAsset": null,
 									"ContentText": "King John in his prime"
+								},
+								{
+									"Template": "Text",
+									"Title": "Test",
+									"ContentText": "undefineddajsdf"
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg",
