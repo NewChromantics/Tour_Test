@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "e185c15612b5470d6e5dd3c0f3da3dc3f2f6c959",
+		"Sha": "8b49c8b4c7a6e0d5f59c3684bb30c2d863a79370",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-21T09:42:43.000Z",
+		"Date": "2021-06-21T15:09:43.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -480,6 +480,14 @@
 			"Trails": [],
 			"ThumbnailAsset": "FGHWDKDP.jpg",
 			"Subtitle": ""
+		},
+		{
+			"Name": "Reload Test",
+			"Subtitle": "Testing the reload",
+			"AboutSubtitle": "",
+			"AboutText": "REloading",
+			"Trails": [],
+			"ThumbnailAsset": "DDOYVCPY.jpg"
 		}
 	],
 	"TermsAndConditions": "MIT License\n\nCopyright (c) [year] [fullname]\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
