@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "89ec530108dfa5512d313be8dd4ae2390c246a8a",
+		"Sha": "f7efd708cf2a06bdf1f7fc158d6eb25dabb69348",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-22T14:05:50.000Z",
+		"Date": "2021-06-22T14:14:23.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -490,7 +490,18 @@
 				{
 					"Name": "Reload What",
 					"Subtitle": "Reload when",
-					"Hotspots": [],
+					"Hotspots": [
+						{
+							"Name": "Reload",
+							"Subtitle": "Reloader",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "CITODNRC.jpg"
+						}
+					],
 					"ThumbnailAsset": "CITODNRC.jpg",
 					"MapAsset": "LIKYTBOQ.jpg",
 					"MapPinAsset": "TCNFTPMK.jpg"
