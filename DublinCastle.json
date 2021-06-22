@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "f6e3549ca611a5c17e78f14a26432b30407629a4",
+		"Sha": "8af975971dbcd8db8ec17f2d05111c75645a125b",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-22T16:21:58.000Z",
+		"Date": "2021-06-22T16:22:03.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -434,16 +434,7 @@
 			"Subtitle": "Reloading",
 			"AboutSubtitle": "",
 			"AboutText": "Reloading Test",
-			"Trails": [
-				{
-					"Name": "1",
-					"Subtitle": "1",
-					"Hotspots": [],
-					"ThumbnailAsset": "BRWFRRYT.jpg",
-					"MapAsset": "BRWFRRYT.jpg",
-					"MapPinAsset": "GZKLTUTP.jpg"
-				}
-			],
+			"Trails": [],
 			"ThumbnailAsset": "CSTFRKXA.jpg"
 		}
 	],
