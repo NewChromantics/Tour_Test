@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "8488799cc959d035558302f05ac84c33fa28bf58",
+		"Sha": "a8944ab90aeeda3ed669603c500c0e526db84db1",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-06-24T12:16:35.000Z",
+		"Date": "2021-06-25T12:50:16.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -298,20 +298,6 @@
 				{
 					"Name": "Ghost Trail",
 					"Hotspots": [
-						{
-							"Name": "Ghost Dog",
-							"MapUv": [
-								0.6898769898904752,
-								0.555342271830832
-							],
-							"Storys": [
-								{
-									"ContentModelAsset": "SHFJIGVQ.zip",
-									"Title": "Story Title"
-								}
-							],
-							"Subtitle": ""
-						},
 						{
 							"Name": "Ghost Cat",
 							"MapUv": [
