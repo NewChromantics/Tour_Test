@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "119d12e51e5e82576f3b714690ba23b2f6594249",
+		"Sha": "ab76336952798f85c9d3326f8b378091a8e7c11c",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-05T13:54:17.000Z",
+		"Date": "2021-07-05T13:54:23.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -468,8 +468,8 @@
 							"Name": "Hotspot A",
 							"Subtitle": "",
 							"MapUv": [
-								0.1423862006539385,
-								0.41932356031894313
+								0.5385912807344629,
+								0.5745062952401268
 							],
 							"Storys": [],
 							"MarkerAsset": "QMXKYJXP.jpg"
