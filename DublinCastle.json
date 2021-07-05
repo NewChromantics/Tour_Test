@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "ec487ffcdc823c32ad98e45d7b0b9e122569c273",
+		"Sha": "d2163ae1775b59eccbd117ccae2e975fd1b2c067",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-05T14:00:26.000Z",
+		"Date": "2021-07-05T14:01:03.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -494,6 +494,11 @@
 									"Title": "Video A",
 									"ContentVideoAsset": "dublincastle(1922).mp4",
 									"ContentText": "ulla sollicitudin tortor at aliquam varius. Donec ac molestie eros, sit amet vulputate lectus. Proin gravida varius ante at pretium. Nullam suscipit erat a lobortis cursus. Curabitur fringilla diam sed sapien posuere, et elementum nunc porttitor. Ut eu dapibus metus. Donec at fringilla tortor. In tempor nisi eu justo venenatis, quis aliquet sapien suscipit. In quis ante nisl."
+								},
+								{
+									"Template": "ModelText",
+									"Title": "Model C",
+									"ContentModelAsset": "HEIHTWYO.zip"
 								}
 							],
 							"MarkerAsset": "PMWSWFHJ.jpg"
