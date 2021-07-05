@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "669b9851282c346b3bc1a3bbf6d818a84fea3e60",
+		"Sha": "895386283d1ddd42337787362910213fa5697ebe",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-05T14:11:55.000Z",
+		"Date": "2021-07-05T14:27:12.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -504,7 +504,7 @@
 									"Template": "ImageText",
 									"Title": "Picture A",
 									"ContentImageAsset": "QMXKYJXP.jpg",
-									"ContentText": "This is a picture"
+									"ContentText": "This is a picture of King John"
 								}
 							],
 							"MarkerAsset": "PMWSWFHJ.jpg"
