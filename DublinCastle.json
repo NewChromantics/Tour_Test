@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "b4d009a9d6953252d373d12e515db0dff24f233e",
+		"Sha": "f6569fc00b31a5ddf7463304c0e558cc2f37be03",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-14T10:48:03.000Z",
+		"Date": "2021-07-14T10:48:05.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -30,20 +30,20 @@
 									"ContentModelAsset": null
 								},
 								{
-									"ContentModelAsset": "ZFEJEYFB.zip",
-									"ContentText": "The Musket of Your",
-									"Title": "Model Test",
-									"ContentImageAsset": null,
-									"ContentAudioAsset": null,
-									"ContentVideoAsset": null
-								},
-								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
 									"ContentText": "Back in Timeeeeee",
 									"Title": "Video Test",
 									"ContentImageAsset": null,
 									"ContentAudioAsset": null,
 									"ContentModelAsset": null
+								},
+								{
+									"ContentModelAsset": "ZFEJEYFB.zip",
+									"ContentText": "The Musket of Your",
+									"Title": "Model Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": null,
+									"ContentVideoAsset": null
 								},
 								{
 									"Title": "Text Test",
