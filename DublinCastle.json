@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "d82e906810b764699d729ddc47dc881fd2f2f1fb",
+		"Sha": "fe59adf5c9e10ff241263245313c2b6441f57e03",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-14T10:48:08.000Z",
+		"Date": "2021-07-14T10:48:11.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -21,14 +21,6 @@
 								0.2980264801398951
 							],
 							"Storys": [
-								{
-									"ContentText": "Viking settlement and port on the site with timber fortifications.",
-									"ContentImageAsset": "CITODNRC.jpg",
-									"Title": "Image Test",
-									"ContentAudioAsset": null,
-									"ContentVideoAsset": null,
-									"ContentModelAsset": null
-								},
 								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
 									"ContentText": "Back in Timeeeeee",
@@ -52,6 +44,14 @@
 									"ContentImageAsset": null,
 									"ContentAudioAsset": null,
 									"ContentVideoAsset": null
+								},
+								{
+									"ContentText": "Viking settlement and port on the site with timber fortifications.",
+									"ContentImageAsset": "CITODNRC.jpg",
+									"Title": "Image Test",
+									"ContentAudioAsset": null,
+									"ContentVideoAsset": null,
+									"ContentModelAsset": null
 								},
 								{
 									"Title": "Audio Test",
