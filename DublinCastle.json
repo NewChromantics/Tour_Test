@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "cbbd06e3dc32170ce919381ea31ca1d83c95150d",
+		"Sha": "4e356167accf027f3e24641ed8b16458ed6099c6",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-14T10:47:35.000Z",
+		"Date": "2021-07-14T10:47:52.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -22,20 +22,20 @@
 							],
 							"Storys": [
 								{
-									"ContentModelAsset": "ZFEJEYFB.zip",
-									"ContentText": "The Musket of Your",
-									"Title": "Model Test",
-									"ContentImageAsset": null,
-									"ContentAudioAsset": null,
-									"ContentVideoAsset": null
-								},
-								{
 									"ContentText": "Viking settlement and port on the site with timber fortifications.",
 									"ContentImageAsset": "CITODNRC.jpg",
 									"Title": "Image Test",
 									"ContentAudioAsset": null,
 									"ContentVideoAsset": null,
 									"ContentModelAsset": null
+								},
+								{
+									"ContentModelAsset": "ZFEJEYFB.zip",
+									"ContentText": "The Musket of Your",
+									"Title": "Model Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": null,
+									"ContentVideoAsset": null
 								},
 								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
