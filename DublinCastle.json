@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "fe59adf5c9e10ff241263245313c2b6441f57e03",
+		"Sha": "e2f875840add1370dbf8c92bed2f530722861bc1",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-14T10:48:11.000Z",
+		"Date": "2021-07-14T10:48:19.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -505,6 +505,11 @@
 									"Title": "Picture A",
 									"ContentImageAsset": "WDISEZDS.jpg",
 									"ContentText": "The Ballroom"
+								},
+								{
+									"Template": "Text",
+									"Title": "Text",
+									"ContentText": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a elit in neque dictum ultrices sit amet eu neque. Etiam pulvinar orci eu velit hendrerit auctor. Nulla rhoncus nisi ut eros rhoncus volutpat. Ut mauris sapien, aliquam ac lacus at, mollis aliquam leo. Nam magna erat, iaculis ac porta non, porttitor nec ipsum. Vivamus blandit sapien convallis velit maximus sagittis. Donec viverra pulvinar magna, quis pharetra lectus viverra congue.\n\nNulla nulla arcu, dapibus ut mollis sed, elementum id enim. Proin nec quam sed ligula posuere dapibus id eget ante. Nulla mi dui, dapibus vel magna congue, ullamcorper fermentum ante. Mauris sit amet purus sit amet nisi ornare imperdiet. Fusce dapibus maximus mattis. Cras sed bibendum leo. Integer gravida faucibus turpis id pharetra. Nulla facilisi. Phasellus non tristique augue, a sodales ex. Sed consequat venenatis lectus vel bibendum. Aliquam ut scelerisque nibh. Ut faucibus faucibus gravida. Sed ac mi ut nulla pharetra efficitur eu in mi."
 								}
 							],
 							"MarkerAsset": "PMWSWFHJ.jpg"
