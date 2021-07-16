@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "aefafde89cadcbf77434a4e064bdc3100a4155a7",
+		"Sha": "f1fd38d675dffdcf0264fe1d5460d9e064acbcdb",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-16T10:40:02.000Z",
+		"Date": "2021-07-16T11:43:51.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -478,6 +478,11 @@
 									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
 									"ContentImageAsset": "CSTFRKXA.jpg",
 									"ContentText": "Video killed the radio star"
+								},
+								{
+									"Template": "Text",
+									"Title": "Text",
+									"ContentText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur a elit in neque dictum ultrices sit amet eu neque. Etiam pulvinar orci eu velit hendrerit auctor. Nulla rhoncus nisi ut eros rhoncus volutpat. Ut mauris sapien, aliquam ac lacus at, mollis aliquam leo. Nam magna erat, iaculis ac porta non, porttitor nec ipsum. Vivamus blandit sapien convallis velit maximus sagittis. Donec viverra pulvinar magna, quis pharetra lectus viverra congue.\n\nNulla nulla arcu, dapibus ut mollis sed, elementum id enim. Proin nec quam sed ligula posuere dapibus id eget ante. Nulla mi dui, dapibus vel magna congue, ullamcorper fermentum ante. Mauris sit amet purus sit amet nisi ornare imperdiet. Fusce dapibus maximus mattis. Cras sed bibendum leo. Integer gravida faucibus turpis id pharetra. Nulla facilisi. Phasellus non tristique augue, a sodales ex. Sed consequat venenatis lectus vel bibendum. Aliquam ut scelerisque nibh. Ut faucibus faucibus gravida. Sed ac mi ut nulla pharetra efficitur eu in mi."
 								}
 							],
 							"MarkerAsset": "QMXKYJXP.jpg"
