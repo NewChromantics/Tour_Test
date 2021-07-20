@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "8a6481fcda02b8380fe2806b3791b50c67f7cf89",
+		"Sha": "0f272a62779246ed696c14953376a6e2f7e38b26",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-16T15:51:00.000Z",
+		"Date": "2021-07-20T10:08:05.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -21,6 +21,17 @@
 								0.2980264801398951
 							],
 							"Storys": [
+								{
+									"Template": "ImageGallery",
+									"Title": "Gallery",
+									"ContentGalleryAssets": [
+										"BRWFRRYT.jpg",
+										"BWJJSPPW.jpg",
+										"DDOYVCPY.jpg",
+										"HHEQRTVL.jpg",
+										"QMXKYJXP.jpg"
+									]
+								},
 								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
 									"ContentText": "Back in Timeeeeee",
@@ -60,17 +71,6 @@
 									"ContentVideoAsset": null,
 									"ContentModelAsset": null,
 									"ContentText": "King John in his prime"
-								},
-								{
-									"Template": "ImageGallery",
-									"Title": "Gallery",
-									"ContentGalleryAssets": [
-										"BRWFRRYT.jpg",
-										"BWJJSPPW.jpg",
-										"DDOYVCPY.jpg",
-										"HHEQRTVL.jpg",
-										"QMXKYJXP.jpg"
-									]
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg",
