@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "cc81d097740bbf6ad91f0bf180e792b8fba14339",
+		"Sha": "605b79176c8d349215056b2abb257c7890e87555",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-20T10:09:53.000Z",
+		"Date": "2021-07-20T10:10:17.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -21,6 +21,14 @@
 								0.2980264801398951
 							],
 							"Storys": [
+								{
+									"Title": "Audio Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
+									"ContentVideoAsset": null,
+									"ContentModelAsset": null,
+									"ContentText": "King John in his prime"
+								},
 								{
 									"Template": "ImageGallery",
 									"Title": "Gallery",
@@ -63,14 +71,6 @@
 									"ContentAudioAsset": null,
 									"ContentVideoAsset": null,
 									"ContentModelAsset": null
-								},
-								{
-									"Title": "Audio Test",
-									"ContentImageAsset": null,
-									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
-									"ContentVideoAsset": null,
-									"ContentModelAsset": null,
-									"ContentText": "King John in his prime"
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg",
