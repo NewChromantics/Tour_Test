@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "e96bfb61d63f37e374a7284c330dda43125cd292",
+		"Sha": "4e36b1991364e7d2a5f120755853a18ae17df319",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-20T10:36:07.000Z",
+		"Date": "2021-07-20T10:38:49.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -369,7 +369,18 @@
 			"Trails": [
 				{
 					"Name": "New Trail",
-					"Hotspots": [],
+					"Hotspots": [
+						{
+							"Name": "x",
+							"Subtitle": "",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "CITODNRC.jpg"
+						}
+					],
 					"MapAsset": "CITODNRC.jpg",
 					"MapPinAsset": null,
 					"Subtitle": ""
