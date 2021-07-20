@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "605b79176c8d349215056b2abb257c7890e87555",
+		"Sha": "98a5005050ca6b91e1075ba03da82ffb779c067a",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-20T10:10:17.000Z",
+		"Date": "2021-07-20T10:10:23.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -22,14 +22,6 @@
 							],
 							"Storys": [
 								{
-									"Title": "Audio Test",
-									"ContentImageAsset": null,
-									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
-									"ContentVideoAsset": null,
-									"ContentModelAsset": null,
-									"ContentText": "King John in his prime"
-								},
-								{
 									"Template": "ImageGallery",
 									"Title": "Gallery",
 									"ContentGalleryAssets": [
@@ -39,6 +31,14 @@
 										"HHEQRTVL.jpg",
 										"QMXKYJXP.jpg"
 									]
+								},
+								{
+									"Title": "Audio Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
+									"ContentVideoAsset": null,
+									"ContentModelAsset": null,
+									"ContentText": "King John in his prime"
 								},
 								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
