@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "98a5005050ca6b91e1075ba03da82ffb779c067a",
+		"Sha": "e96bfb61d63f37e374a7284c330dda43125cd292",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-20T10:10:23.000Z",
+		"Date": "2021-07-20T10:36:07.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -33,20 +33,20 @@
 									]
 								},
 								{
-									"Title": "Audio Test",
-									"ContentImageAsset": null,
-									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
-									"ContentVideoAsset": null,
-									"ContentModelAsset": null,
-									"ContentText": "King John in his prime"
-								},
-								{
 									"ContentVideoAsset": "dublincastle(1922).mp4",
 									"ContentText": "Back in Timeeeeee",
 									"Title": "Video Test",
 									"ContentImageAsset": null,
 									"ContentAudioAsset": null,
 									"ContentModelAsset": null
+								},
+								{
+									"Title": "Audio Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
+									"ContentVideoAsset": null,
+									"ContentModelAsset": null,
+									"ContentText": "King John in his prime"
 								},
 								{
 									"Title": "Text Test",
