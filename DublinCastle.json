@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "efa4a648ae2f139571329b61480f8f45ecaca627",
+		"Sha": "584b6b67c818c0028133e4f21da4cd642b4f95bf",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-26T10:49:57.000Z",
+		"Date": "2021-07-26T10:49:59.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -54,14 +54,6 @@
 									"ContentVideoAsset": null
 								},
 								{
-									"ContentText": "Viking settlement and port on the site with timber fortifications.",
-									"ContentImageAsset": "CITODNRC.jpg",
-									"Title": "Image Test",
-									"ContentAudioAsset": null,
-									"ContentVideoAsset": null,
-									"ContentModelAsset": null
-								},
-								{
 									"Template": "ImageGallery",
 									"Title": "Gallery",
 									"ContentGalleryAssets": [
@@ -71,6 +63,14 @@
 										"HHEQRTVL.jpg",
 										"QMXKYJXP.jpg"
 									]
+								},
+								{
+									"ContentText": "Viking settlement and port on the site with timber fortifications.",
+									"ContentImageAsset": "CITODNRC.jpg",
+									"Title": "Image Test",
+									"ContentAudioAsset": null,
+									"ContentVideoAsset": null,
+									"ContentModelAsset": null
 								}
 							],
 							"MarkerAsset": "CITODNRC.jpg",
