@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "d158b0bc2d9d9a43a4dec9f2d6679982dd7d30ef",
+		"Sha": "834454c24d362278f8bb32bd1ad3f649f0ae1b4f",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-20T14:29:34.000Z",
+		"Date": "2021-07-22T09:51:45.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -22,6 +22,14 @@
 							],
 							"Storys": [
 								{
+									"ContentVideoAsset": "dublincastle(1922).mp4",
+									"ContentText": "Back in Timeeeeee",
+									"Title": "Video Test",
+									"ContentImageAsset": null,
+									"ContentAudioAsset": null,
+									"ContentModelAsset": null
+								},
+								{
 									"Template": "ImageGallery",
 									"Title": "Gallery",
 									"ContentGalleryAssets": [
@@ -31,14 +39,6 @@
 										"HHEQRTVL.jpg",
 										"QMXKYJXP.jpg"
 									]
-								},
-								{
-									"ContentVideoAsset": "dublincastle(1922).mp4",
-									"ContentText": "Back in Timeeeeee",
-									"Title": "Video Test",
-									"ContentImageAsset": null,
-									"ContentAudioAsset": null,
-									"ContentModelAsset": null
 								},
 								{
 									"Title": "Audio Test",
