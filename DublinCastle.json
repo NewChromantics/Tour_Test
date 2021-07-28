@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "9ef661cae4abfd7f8205caefaacc957832dd9f08",
+		"Sha": "a7d26ce2013b17b44cd1ebc6ada70d9981796d01",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-07-26T15:00:44.000Z",
+		"Date": "2021-07-27T08:57:29.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -126,8 +126,8 @@
 						{
 							"Name": "Upper Courtyard",
 							"MapUv": [
-								null,
-								null
+								0.08914614301811802,
+								0.21956706111188753
 							],
 							"Storys": [
 								{
@@ -207,8 +207,8 @@
 						{
 							"Name": "Law Courts",
 							"MapUv": [
-								null,
-								null
+								0.13743363715293194,
+								0.07098784682564785
 							],
 							"Storys": [
 								{
@@ -304,8 +304,8 @@
 							"Name": "Hotspot A",
 							"Subtitle": "",
 							"MapUv": [
-								0.5,
-								0.5
+								0.17333972253522947,
+								0.5183763698431029
 							],
 							"Storys": [],
 							"MarkerAsset": "OPKHAEDF.jpg"
@@ -314,8 +314,8 @@
 							"Name": "Hotspot B",
 							"Subtitle": "",
 							"MapUv": [
-								0.5,
-								0.5
+								0.7379319616499769,
+								0.5167254896843669
 							],
 							"Storys": [],
 							"MarkerAsset": "ZGFZRPQF.jpg"
