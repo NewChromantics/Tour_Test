@@ -7,58 +7,7 @@
 		"Date": "2021-07-28T10:31:51.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
-	"Locations": [
-		{
-			"Name": "Forder's Castle",
-			"Trails": [
-				{
-					"Name": "New Trail",
-					"Hotspots": [
-						{
-							"Name": "x",
-							"Subtitle": "",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [],
-							"MarkerAsset": "CITODNRC.jpg"
-						}
-					],
-					"MapAsset": "CITODNRC.jpg",
-					"MapPinAsset": null,
-					"Subtitle": ""
-				},
-				{
-					"Name": "Trail 52",
-					"Hotspots": [
-						{
-							"Name": "New Hotspot",
-							"MapUv": [
-								0.13556780258362297,
-								0.39887925110231687
-							],
-							"Storys": [
-								{
-									"ContentText": "Hello Text",
-									"ContentAudioAsset": "kingjohnspeech_mixdown.mp3",
-									"Title": "Story Title"
-								}
-							],
-							"MarkerAsset": "JGOFONYF.jpg",
-							"Subtitle": ""
-						}
-					],
-					"ThumbnailAsset": "UIPPSYSA.jpg",
-					"Subtitle": ""
-				}
-			],
-			"ThumbnailAsset": "CSTFRKXA.jpg",
-			"AboutText": "A very pretty castle",
-			"AboutSubtitle": "",
-			"Subtitle": ""
-		}
-	],
+	"Locations": [],
 	"TermsAndConditions": "MIT License\n\nCopyright (c) [year] [fullname]\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
 	"MapMarkerDefaultAsset": "ALVONROF.png",
 	"MapMarkerSelectedAsset": null
