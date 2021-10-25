@@ -1,22 +1,13 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "880c4c55cf14ac1d860aed9f23914ddbbf372a9b",
+		"Sha": "4860c58a641dc6b92778402a6c111a9dbc60ae2a",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-25T12:39:32.000Z",
+		"Date": "2021-10-25T12:51:40.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
-	"Locations": [
-		{
-			"Name": "Test For Dublin Castle",
-			"Subtitle": "Testing Media Upload",
-			"AboutSubtitle": "",
-			"AboutText": "Testing the setup of a new trail on the system.",
-			"Trails": [],
-			"ThumbnailAsset": "DublinCastle.png"
-		}
-	],
+	"Locations": [],
 	"TermsAndConditions": "MIT License\n\nCopyright (c) [year] [fullname]\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
 	"MapMarkerDefaultAsset": "ALVONROF.png",
 	"MapMarkerSelectedAsset": null
