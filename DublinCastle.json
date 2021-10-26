@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "4d1da82cd918fde1449a2a93fa0ec949f3902b13",
+		"Sha": "cc191b0f925574a5892aa8b6d1c206164ce0dc89",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-25T13:00:36.000Z",
+		"Date": "2021-10-25T13:05:03.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -13,7 +13,16 @@
 			"Subtitle": "Testing a Location Upload",
 			"AboutSubtitle": "",
 			"AboutText": "Picture and text for Dublin Castle Upload",
-			"Trails": [],
+			"Trails": [
+				{
+					"Name": "Media Showcase",
+					"Subtitle": "Showing Media Formats",
+					"Hotspots": [],
+					"ThumbnailAsset": "001MediaIcon.jpg",
+					"MapAsset": "0002DublinCastlePlan2.png",
+					"MapPinAsset": "0003MapPin.png"
+				}
+			],
 			"ThumbnailAsset": "DublinCastle.png"
 		},
 		{
