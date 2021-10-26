@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "d5b328814d65dcb7b78848785ea3a205793a8c05",
+		"Sha": "d37412f10c3bf738cfa6f3684dcfd9b29688d270",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-26T14:20:05.000Z",
+		"Date": "2021-10-26T14:29:14.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -22,15 +22,15 @@
 							"Name": "Trial Pin",
 							"Subtitle": "Pin try out",
 							"MapUv": [
-								0.2907108789461731,
-								0.6557310856508353
+								0.30040124157771214,
+								0.6848029071821531
 							],
 							"Storys": [],
 							"MarkerAsset": "0003MapPin.png"
 						}
 					],
 					"ThumbnailAsset": "001MediaIcon.jpg",
-					"MapAsset": "0002DublinCastlePlan2.png",
+					"MapAsset": "0004DublinCastlePlanCGISmall.PNG",
 					"MapPinAsset": "0003MapPin.png"
 				}
 			],
