@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "cc191b0f925574a5892aa8b6d1c206164ce0dc89",
+		"Sha": "9277c490358cff00ce25192d50eea0e1857fd0cd",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-25T13:05:03.000Z",
+		"Date": "2021-10-26T11:54:58.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -17,7 +17,18 @@
 				{
 					"Name": "Media Showcase",
 					"Subtitle": "Showing Media Formats",
-					"Hotspots": [],
+					"Hotspots": [
+						{
+							"Name": "Trial Pin",
+							"Subtitle": "Pin try out",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "0003MapPin.png"
+						}
+					],
 					"ThumbnailAsset": "001MediaIcon.jpg",
 					"MapAsset": "0002DublinCastlePlan2.png",
 					"MapPinAsset": "0003MapPin.png"
