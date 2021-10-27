@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "0af206f004789194557425bfeaf72721c987ecad",
+		"Sha": "16ce6a5097e42ae89d211508bc445e4f521f77dd",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T12:19:14.000Z",
+		"Date": "2021-10-27T12:20:23.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -22,8 +22,8 @@
 							"Name": "Test",
 							"Subtitle": "testing",
 							"MapUv": [
-								0.5,
-								0.5
+								0.5446428571428571,
+								0.6788830715532286
 							],
 							"Storys": [],
 							"MarkerAsset": "markertest.png"
