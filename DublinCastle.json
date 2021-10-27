@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "e06e593335b45aec02f951f5ec462714f667af26",
+		"Sha": "140302d456184c658f60a453ca0fc97e983a826f",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T15:28:16.000Z",
+		"Date": "2021-10-27T15:31:00.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -74,7 +74,7 @@
 									"ContentText": "The Upper Courtyard has for centuries been used as a place to show off.\n\nFor Georgrian ladies and gents it was all about dinners and balls, wearing the finest fashions and being seen by your peers.\n\nUnder British rule, this place was a parade ground, a stage upon which to showcase the military might of empire.\n\nIn more recent times, it has seen major public gatherings to celebrate events of national importance, such as announcing the outcome of Ireland's referendum over same sex marriage."
 								}
 							],
-							"MarkerAsset": "uppercourtyard.png"
+							"MarkerAsset": "upperct.png"
 						}
 					],
 					"ThumbnailAsset": "DublinCastle.png",
