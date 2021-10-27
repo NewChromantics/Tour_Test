@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "ba3ca3cd0697a38b3521d1e4e63018d938145b8a",
+		"Sha": "6a2afe575db9abd4514ed860c758186b5c76fe82",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T15:13:17.000Z",
+		"Date": "2021-10-27T15:13:43.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -43,7 +43,13 @@
 								0.6599702380952381,
 								0.15357766143106458
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Template": "VideoText",
+									"Title": "zdfg",
+									"ContentVideoAsset": "0005PalaceStGatePathe.mp4"
+								}
+							],
 							"MarkerAsset": "wall.png"
 						}
 					],
