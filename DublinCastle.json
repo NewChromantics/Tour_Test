@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "a244faade30042664903a85b0da587d6930016c1",
+		"Sha": "03ab535d47ba33dfacb438171c3ab7f3001f05f7",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T15:19:55.000Z",
+		"Date": "2021-10-27T15:21:07.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -48,7 +48,7 @@
 									"Template": "VideoText",
 									"Title": "January 16th 1922",
 									"ContentVideoAsset": "0005PalaceStGatePathe.mp4",
-									"ContentText": "On the 16th January, 1922, Michael Collins, the Chairman (Prime Minister) of the Provisional Government of Ireland created under the Anglo-Irish Treaty, accepted control of Dublin Castle from Lord Lieutenant FitzAlan. \nThe turnover symbolised the end of British rule in Ireland, even though the Irish Free State would remain part of the Commonwealth until 1949 and the six counties still remain under British rule. \nWhen Collins arrived at Dublin Castle Lord Lieutenant FitzAlan reportedly said, “you are seven minutes late, Mr. Collins” to which Collins replied “Blasted, you’ve been here seven centuries, what difference does seven minutes make now that you’re leaving.”\n"
+									"ContentText": "On this day in 1922, Michael Collins, the Chairman (Prime Minister) of the Provisional Government of Ireland created under the Anglo-Irish Treaty, accepted control of Dublin Castle from Lord Lieutenant FitzAlan. \nThe turnover symbolised the end of British rule in Ireland, even though the Irish Free State would remain part of the Commonwealth until 1949 and the six counties still remain under British rule. \nWhen Collins arrived at Dublin Castle Lord Lieutenant FitzAlan reportedly said, “you are seven minutes late, Mr. Collins” to which Collins replied “Blasted, you’ve been here seven centuries, what difference does seven minutes make now that you’re leaving.”\n"
 								}
 							],
 							"MarkerAsset": "palacegate.png"
