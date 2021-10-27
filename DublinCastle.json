@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "140302d456184c658f60a453ca0fc97e983a826f",
+		"Sha": "49798a728f39ebdd69ebe35428623a9b12431535",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T15:31:00.000Z",
+		"Date": "2021-10-27T15:32:28.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -22,8 +22,8 @@
 							"Name": "To build a castle",
 							"Subtitle": "King John",
 							"MapUv": [
-								0.5706845238095238,
-								0.42408376963350786
+								0.5788690476190477,
+								0.4328097731239092
 							],
 							"Storys": [
 								{
@@ -57,8 +57,8 @@
 							"Name": "A place of spectacle",
 							"Subtitle": "Upper Courtyard",
 							"MapUv": [
-								0.5,
-								0.5
+								0.48288690476190477,
+								0.3699825479930192
 							],
 							"Storys": [
 								{
