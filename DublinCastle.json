@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "623a37530e720fec939b913c1effa2c9e23f9e6d",
+		"Sha": "ce198012438675ff02256a213b886fa8ce7d7c5c",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T15:33:01.000Z",
+		"Date": "2021-10-27T15:35:30.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -57,8 +57,8 @@
 							"Name": "A place of spectacle",
 							"Subtitle": "Upper Courtyard",
 							"MapUv": [
-								0.48288690476190477,
-								0.3699825479930192
+								0.44494047619047616,
+								0.36300174520069806
 							],
 							"Storys": [
 								{
