@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "cf65b5cf03f152fc466b26ad6db96e5dfe73d3a4",
+		"Sha": "6d08e685678bbe639f0c1e0040952b0ce86e8ab0",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T12:10:12.000Z",
+		"Date": "2021-10-27T12:14:24.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -30,7 +30,7 @@
 						}
 					],
 					"ThumbnailAsset": "TrailThumbnail.png",
-					"MapAsset": "0004DublinCastlePlanCGISmall.PNG",
+					"MapAsset": "mapimage.png",
 					"MapPinAsset": "0003MapPin.png"
 				}
 			],
