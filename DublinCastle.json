@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "7dd77cbe9a23823065c559471ad3547787d45c5e",
+		"Sha": "ff6f28e704ac202e0582b5b5273398b557ca91e1",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T14:37:57.000Z",
+		"Date": "2021-10-27T14:40:01.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -19,8 +19,8 @@
 					"Subtitle": "",
 					"Hotspots": [
 						{
-							"Name": "King John",
-							"Subtitle": "testing",
+							"Name": "To build a castle",
+							"Subtitle": "King John",
 							"MapUv": [
 								0.5446428571428571,
 								0.6788830715532286
@@ -35,6 +35,16 @@
 								}
 							],
 							"MarkerAsset": "stone.png"
+						},
+						{
+							"Name": "The handover",
+							"Subtitle": "Michael Collins is 7 minutes late",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "002MichaelCollins.png"
 						}
 					],
 					"ThumbnailAsset": "DublinCastle.png",
