@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "c7c59bef93dea9d83717731974dd366b640126c2",
+		"Sha": "6c482a15c51c79cbf5a205985b0b296b04b9bcd0",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T13:42:01.000Z",
+		"Date": "2021-10-27T13:42:24.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -73,7 +73,7 @@
 									"ContentModelAsset": "vikingcoin3.zip"
 								}
 							],
-							"MarkerAsset": "MapImage.png"
+							"MarkerAsset": "SkellingMichael2.png"
 						}
 					],
 					"ThumbnailAsset": "DublinCastle.png",
