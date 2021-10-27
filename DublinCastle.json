@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "74b3b3869712d0aac648a2e44aa6a494cc295673",
+		"Sha": "534b9e3ba9c4a24fc7664200034a21035f3cdb5a",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T15:56:25.000Z",
+		"Date": "2021-10-27T15:56:48.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -80,8 +80,8 @@
 							"Name": "The Black Pond",
 							"Subtitle": "",
 							"MapUv": [
-								0.5,
-								0.5
+								0.5491071428571429,
+								0.6771378708551483
 							],
 							"Storys": [
 								{
