@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "fec8b854b527d84bef66286c6348db58b28d3f38",
+		"Sha": "476c89b5238a212740dd8f78e27ad1ba9426c157",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T12:55:00.000Z",
+		"Date": "2021-10-27T13:32:21.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -19,7 +19,7 @@
 					"Subtitle": "",
 					"Hotspots": [
 						{
-							"Name": "Test",
+							"Name": "King John",
 							"Subtitle": "testing",
 							"MapUv": [
 								0.5446428571428571,
