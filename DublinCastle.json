@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "3648afee88cc1dfadba8c3daa15b500d3f7ef320",
+		"Sha": "72207c88d1c3155d113699c65c2bd217ba34a4c7",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T15:08:40.000Z",
+		"Date": "2021-10-27T15:09:32.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -51,7 +51,7 @@
 									"ContentText": "The official entry of Michael Collins into Dublin Castle, to affect the handover of Ireland from British rule to the Sinn Fein Provisional Government, was undramatic but it lives on forever in Irish minds.\n"
 								}
 							],
-							"MarkerAsset": "1922.png"
+							"MarkerAsset": "soldiersleaving.png"
 						}
 					],
 					"ThumbnailAsset": "DublinCastle.png",
