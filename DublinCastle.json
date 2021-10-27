@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "8190d84c3688ce74ccac65e0db167dfdb177b5f0",
+		"Sha": "6239b463c59e048f75a5e61e522c05239244a52e",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T13:33:20.000Z",
+		"Date": "2021-10-27T13:35:17.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -57,7 +57,7 @@
 									"ContentText": "A space through time..."
 								}
 							],
-							"MarkerAsset": "markertest.png"
+							"MarkerAsset": "SkellingMichael.png"
 						}
 					],
 					"ThumbnailAsset": "DublinCastle.png",
