@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "bb236362d20e9a939074c9a2548f3a3c4531b0ac",
+		"Sha": "b9ab9bafa13ff1054085e7f0cf04fe307545f780",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T12:47:50.000Z",
+		"Date": "2021-10-27T12:52:24.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -43,7 +43,20 @@
 								0.5,
 								0.5
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Template": "ImageGallery",
+									"Title": "Upper Courtyard ",
+									"ContentGalleryAssets": [
+										"0006UpperCourtyard-Georgian.png",
+										"0007UpperCourtyard-Victorian.png",
+										"0008UpperCourtyard-EarlyVictorian.png",
+										"0009UpperCourtyard-Edwardian.png",
+										null
+									],
+									"ContentText": "A space through time..."
+								}
+							],
 							"MarkerAsset": "marker2.png"
 						}
 					],
