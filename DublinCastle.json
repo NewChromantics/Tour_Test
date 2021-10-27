@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "d627444eb209f19322aa65b7dd918917fed13cc3",
+		"Sha": "105e312051f517ae0b4521b6c8b6929e53bd5a46",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T12:22:23.000Z",
+		"Date": "2021-10-27T12:24:55.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -25,7 +25,13 @@
 								0.5446428571428571,
 								0.6788830715532286
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Template": "ModelText",
+									"Title": "Viking Coin",
+									"ContentModelAsset": "VikingCoin2.zip"
+								}
+							],
 							"MarkerAsset": "markertest.png"
 						}
 					],
