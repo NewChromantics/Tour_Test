@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "8c908734bde85c554baa4407f722c49d367becd5",
+		"Sha": "ba3ca3cd0697a38b3521d1e4e63018d938145b8a",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-27T15:12:58.000Z",
+		"Date": "2021-10-27T15:13:17.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -43,14 +43,7 @@
 								0.6599702380952381,
 								0.15357766143106458
 							],
-							"Storys": [
-								{
-									"Template": "VideoText",
-									"Title": "January 16th 1922",
-									"ContentVideoAsset": "0005PalaceStGatePathe.mp4",
-									"ContentText": "The official entry of Michael Collins into Dublin Castle, to affect the handover of Ireland from British rule to the Sinn Fein Provisional Government, was undramatic but it lives on forever in Irish minds.\n"
-								}
-							],
+							"Storys": [],
 							"MarkerAsset": "wall.png"
 						}
 					],
