@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "8ac70fce819ca924c8e800d10685369b31b01760",
+		"Sha": "33c11895081f9ca4915ece0eeffa082a14ad1624",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-29T12:31:39.000Z",
+		"Date": "2021-10-29T13:00:29.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -34,7 +34,7 @@
 									"ContentText": "King John orders the construction of a castle in Dublin to protect his treasure and power in Ireland."
 								}
 							],
-							"MarkerAsset": "tower.png"
+							"MarkerAsset": "stone.png"
 						},
 						{
 							"Name": "The handover",
