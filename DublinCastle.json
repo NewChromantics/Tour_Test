@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "c88676567a2ac4730bb17c419e286ad0c7cb1cf1",
+		"Sha": "ee1ad14604c5d40f57757b7c6b8e71394140fc7d",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-29T13:24:01.000Z",
+		"Date": "2021-10-29T13:34:31.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -81,7 +81,14 @@
 								0.5,
 								0.5
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Template": "AudioImageText",
+									"Title": "Castles and Power",
+									"ContentAudioAsset": "0001KingJohnSpeech.wav",
+									"ContentImageAsset": "0005KingJohnPortrait.png"
+								}
+							],
 							"MarkerAsset": "tower.png"
 						}
 					],
