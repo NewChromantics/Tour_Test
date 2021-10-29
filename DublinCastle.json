@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "988bdf4ccbbf8375d131f080237ee562b1ff5110",
+		"Sha": "c88676567a2ac4730bb17c419e286ad0c7cb1cf1",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-29T13:05:04.000Z",
+		"Date": "2021-10-29T13:24:01.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -18,24 +18,6 @@
 					"Name": "Dublin Demo",
 					"Subtitle": "",
 					"Hotspots": [
-						{
-							"Name": "To build a castle",
-							"Subtitle": "King John",
-							"MapUv": [
-								0.5788690476190477,
-								0.4328097731239092
-							],
-							"Storys": [
-								{
-									"Template": "AudioImageText",
-									"Title": "Build me a castle",
-									"ContentAudioAsset": "0001KingJohnSpeech.wav",
-									"ContentImageAsset": "0005KingJohnPortrait.png",
-									"ContentText": "King John orders the construction of a castle in Dublin to protect his treasure and power in Ireland."
-								}
-							],
-							"MarkerAsset": "tower2.png"
-						},
 						{
 							"Name": "The handover",
 							"Subtitle": "Michael Collins is 7 minutes late",
@@ -91,6 +73,16 @@
 								}
 							],
 							"MarkerAsset": "garden.png"
+						},
+						{
+							"Name": "To build a castle",
+							"Subtitle": "King John",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "tower.png"
 						}
 					],
 					"ThumbnailAsset": "DublinCastle.png",
