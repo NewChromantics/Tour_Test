@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "505a5fad82e15fe85a2c144a46c58742717fc3f3",
+		"Sha": "2d5cda84e0781db9bb12a6500f6ad7934efd9074",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-01T15:05:34.000Z",
+		"Date": "2021-11-01T15:08:06.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -116,14 +116,7 @@
 								0.5,
 								0.5
 							],
-							"Storys": [
-								{
-									"Template": "AudioImageText",
-									"Title": "Sound TEst",
-									"ContentAudioAsset": "0001KingJohnSpeech.wav",
-									"ContentImageAsset": "0005KingJohnPortrait.png"
-								}
-							],
+							"Storys": [],
 							"MarkerAsset": "upper.png"
 						},
 						{
