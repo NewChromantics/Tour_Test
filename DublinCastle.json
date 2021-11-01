@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "5ab703cfd0de6655915186ddd7021a0c39adea22",
+		"Sha": "82413f89b65f4ce5a39f349eafc28996874a2238",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-01T15:38:13.000Z",
+		"Date": "2021-11-01T16:48:12.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -148,7 +148,19 @@
 								0.5,
 								0.5
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Template": "ImageGallery",
+									"Title": "Test Images",
+									"ContentGalleryAssets": [
+										"0005KingJohnPortrait.png",
+										"002MichaelCollins.png",
+										"1922.png",
+										"TrailThumbnail.png",
+										"garden-test.png"
+									]
+								}
+							],
 							"MarkerAsset": "garden-test.png"
 						},
 						{
