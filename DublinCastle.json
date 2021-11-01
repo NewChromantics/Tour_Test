@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "336c08c1774baf7160a826d8dec5544f7d74f0fd",
+		"Sha": "dfa7a57f6e99ee6362f25337289433c9ced7b1f6",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-10-29T15:14:25.000Z",
+		"Date": "2021-11-01T14:51:56.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -108,7 +108,18 @@
 				{
 					"Name": "Test",
 					"Subtitle": "",
-					"Hotspots": [],
+					"Hotspots": [
+						{
+							"Name": "Test1",
+							"Subtitle": "",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "upper-test.png"
+						}
+					],
 					"ThumbnailAsset": "002MichaelCollins.png",
 					"MapPinAsset": "0003MapPin.png",
 					"MapAsset": "0004DublinCastlePlanCGISmall.PNG"
