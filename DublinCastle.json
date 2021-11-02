@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "367e3097fcbb9691cac27b815ca8c4e043baa852",
+		"Sha": "44901e758a26a9605a6dbfa6d597d04f1ecd0daa",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T15:44:27.000Z",
+		"Date": "2021-11-02T15:47:17.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -186,14 +186,7 @@
 								0.35267857142857145,
 								0.506108202443281
 							],
-							"Storys": [
-								{
-									"Template": "VideoText",
-									"Title": "The Waiter",
-									"ContentVideoAsset": "0004TheWaiterFinal-lowres.mp4",
-									"ContentText": ""
-								}
-							],
+							"Storys": [],
 							"MarkerAsset": "DublinCastleInterior.png"
 						}
 					],
