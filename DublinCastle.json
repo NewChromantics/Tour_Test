@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "0ac0fbc6f40bd6d616a10cb14a5b16175f7dcb4c",
+		"Sha": "093d6846377059ec41782854bf6f3bc6c71fab8f",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T14:01:54.000Z",
+		"Date": "2021-11-02T14:02:24.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -113,8 +113,8 @@
 							"Name": "Example 1",
 							"Subtitle": "Traditional Media",
 							"MapUv": [
-								0.5773809523809523,
-								0.3368237347294939
+								0.5662202380952381,
+								0.3961605584642234
 							],
 							"Storys": [],
 							"MarkerAsset": "MedievalTowerDublinCastle.png"
@@ -133,11 +133,11 @@
 							"Name": "Example 3",
 							"Subtitle": "Original Creations",
 							"MapUv": [
-								0.5,
-								0.5
+								0.6607142857142857,
+								0.16404886561954624
 							],
 							"Storys": [],
-							"MarkerAsset": "upper-test.png"
+							"MarkerAsset": "palacegate.png"
 						}
 					],
 					"ThumbnailAsset": "1922.png",
