@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "1bfcca0a9596ccd8073e033381497141a75a2556",
+		"Sha": "52545f1259d62d9577e829b7c7111e63bfcfb830",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T14:35:55.000Z",
+		"Date": "2021-11-02T14:39:04.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -134,6 +134,12 @@
 										null
 									],
 									"ContentText": "The Upper Courtyard has always been a place of spectacle, where lords and ladies would promenade in their finery, the military would hold their parades, and where important guests would be welcomed to Dublin.\n\nThese images show how the Upper Courtyard looked at different times.\n"
+								},
+								{
+									"Template": "AudioImageText",
+									"Title": "King John",
+									"ContentAudioAsset": "0001KingJohnSpeech.wav",
+									"ContentImageAsset": "0005KingJohnPortrait.png"
 								}
 							],
 							"MarkerAsset": "MedievalTowerDublinCastle.png"
