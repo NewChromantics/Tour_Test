@@ -1,15 +1,15 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "284fa552272495236e7a792c0dc73d28de861dff",
+		"Sha": "97645a873f0ec5a8a711628a2a6660bdf65c6b08",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-01T16:48:40.000Z",
+		"Date": "2021-11-02T10:17:15.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
 		{
-			"Name": "Dublin Castle (DEMO)",
+			"Name": "Testing",
 			"Subtitle": "Testing a Location Upload",
 			"AboutSubtitle": "",
 			"AboutText": "This is the demonstration trail for the final delivery of the Virtual Historic Dublin Cities project SBIR project response from this great adventure ltd.",
@@ -97,7 +97,7 @@
 					"MapAsset": "mapimage.png"
 				}
 			],
-			"ThumbnailAsset": "DublinCastle.png"
+			"ThumbnailAsset": "markertest.png"
 		},
 		{
 			"Name": "Skellig Michael",
