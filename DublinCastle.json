@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "7862076ceca140253322dfb55e531c841e291546",
+		"Sha": "970af4ac5d97bff18f097d1815574b5a17a14777",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T15:55:34.000Z",
+		"Date": "2021-11-02T15:55:57.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -203,6 +203,12 @@
 									"Template": "VideoText",
 									"Title": "The Escape",
 									"ContentVideoAsset": "0002TheEscapeFinal-lowres.mp4",
+									"ContentText": ""
+								},
+								{
+									"Template": "VideoText",
+									"Title": "The Body",
+									"ContentVideoAsset": "0001TheBodyFinal-lowres.mp4",
 									"ContentText": ""
 								}
 							],
