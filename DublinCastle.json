@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "813f740c1a1ba7928263c6932a7f9f30ec84e6db",
+		"Sha": "95d5776019db8563a654cfeffbf44cde72a978c5",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T13:03:00.000Z",
+		"Date": "2021-11-02T13:21:14.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -108,7 +108,18 @@
 				{
 					"Name": "Testing",
 					"Subtitle": "",
-					"Hotspots": [],
+					"Hotspots": [
+						{
+							"Name": "Medival Tower",
+							"Subtitle": "",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "recordtowercutthrough.png"
+						}
+					],
 					"ThumbnailAsset": "1922.png",
 					"MapAsset": "mapimage.png",
 					"MapPinAsset": "locationpin.png"
