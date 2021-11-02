@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "f16dec7a6fb701cccbae3d87df91d45d28a04dfe",
+		"Sha": "813f740c1a1ba7928263c6932a7f9f30ec84e6db",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T13:01:35.000Z",
+		"Date": "2021-11-02T13:03:00.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -106,7 +106,7 @@
 			"AboutText": "",
 			"Trails": [
 				{
-					"Name": "Test",
+					"Name": "Testing",
 					"Subtitle": "",
 					"Hotspots": [],
 					"ThumbnailAsset": "1922.png",
