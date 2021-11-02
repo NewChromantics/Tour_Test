@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "c0d636ac080a19eed608285f71c220505eba63d0",
+		"Sha": "85c15c6f3a772da84cdd90c12ee56918c4ef2741",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T14:30:44.000Z",
+		"Date": "2021-11-02T14:31:32.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -113,8 +113,8 @@
 							"Name": "Example 1",
 							"Subtitle": "Traditional Media",
 							"MapUv": [
-								0.5662202380952381,
-								0.3961605584642234
+								0.6063988095238095,
+								0.3228621291448517
 							],
 							"Storys": [
 								{
@@ -142,8 +142,8 @@
 							"Name": "Example 2",
 							"Subtitle": "3D Media",
 							"MapUv": [
-								0.5,
-								0.5
+								0.5059523809523809,
+								0.7643979057591623
 							],
 							"Storys": [],
 							"MarkerAsset": "DublinCastleGardens.png"
@@ -152,11 +152,11 @@
 							"Name": "Example 3",
 							"Subtitle": "Original Content",
 							"MapUv": [
-								0.5,
-								0.5
+								0.34598214285714285,
+								0.42757417102966844
 							],
 							"Storys": [],
-							"MarkerAsset": "TrailThumbnail.png"
+							"MarkerAsset": "upper-test.png"
 						}
 					],
 					"ThumbnailAsset": "1922.png",
