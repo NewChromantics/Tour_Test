@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "acbfc090ad2957209700ccf7da7ac5b0ba2b5d1f",
+		"Sha": "a321998cc29162c17d4a2bb3570ee3d96f3428ec",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T14:53:50.000Z",
+		"Date": "2021-11-02T15:26:57.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -134,6 +134,13 @@
 										null
 									],
 									"ContentText": "The Upper Courtyard has always been a place of spectacle, where lords and ladies would promenade in their finery, the military would hold their parades, and where important guests would be welcomed to Dublin.\n\nThese images show how the Upper Courtyard looked at different times.\n"
+								},
+								{
+									"Template": "AudioImageText",
+									"Title": "King John",
+									"ContentAudioAsset": "0001KingJohnSpeech.wav",
+									"ContentImageAsset": "0005KingJohnPortrait.png",
+									"ContentText": "King John commands the building of a castle in Dublin to protect his treasure and to act as a centre of English power in Ireland.\n\nIt remained a symbol of this power until the handover to Michael Collins, Sinn Fein and the Provisional Government was finally achieved in 1922 following the Easter Rising.\n"
 								}
 							],
 							"MarkerAsset": "MedievalTowerDublinCastle.png"
