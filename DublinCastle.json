@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "97645a873f0ec5a8a711628a2a6660bdf65c6b08",
+		"Sha": "10599a3c32a7448063e8d96110d9c4e851ad74a0",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T10:17:15.000Z",
+		"Date": "2021-11-02T10:17:42.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -98,94 +98,6 @@
 				}
 			],
 			"ThumbnailAsset": "markertest.png"
-		},
-		{
-			"Name": "Skellig Michael",
-			"Subtitle": "Test For Second Location",
-			"AboutSubtitle": "",
-			"AboutText": "",
-			"Trails": [
-				{
-					"Name": "Test",
-					"Subtitle": "",
-					"Hotspots": [
-						{
-							"Name": "Test1",
-							"Subtitle": "",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"Template": "ModelText",
-									"Title": "ModelTest",
-									"ContentModelAsset": "0001VikingCoinModel.zip"
-								}
-							],
-							"MarkerAsset": "upper.png"
-						},
-						{
-							"Name": "test2",
-							"Subtitle": "",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"Template": "VideoText",
-									"Title": "Video Test",
-									"ContentVideoAsset": "0001TheBodyFinal-lowres.mp4"
-								}
-							],
-							"MarkerAsset": "tower-test.png"
-						},
-						{
-							"Name": "test3",
-							"Subtitle": "",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"Template": "ImageGallery",
-									"Title": "Test Images",
-									"ContentGalleryAssets": [
-										"0005KingJohnPortrait.png",
-										"002MichaelCollins.png",
-										"1922.png",
-										"TrailThumbnail.png",
-										"garden-test.png"
-									]
-								}
-							],
-							"MarkerAsset": "garden-test.png"
-						},
-						{
-							"Name": "test4",
-							"Subtitle": "",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"Template": "ModelText",
-									"Title": "ModelTest",
-									"ContentModelAsset": "0001VikingCoinModel.zip"
-								}
-							],
-							"MarkerAsset": "palacegate-test.png"
-						}
-					],
-					"ThumbnailAsset": "002MichaelCollins.png",
-					"MapPinAsset": "0003MapPin.png",
-					"MapAsset": "0004DublinCastlePlanCGISmall.PNG"
-				}
-			],
-			"ThumbnailAsset": "SkellingMichael.png"
 		}
 	],
 	"TermsAndConditions": "MIT License\n\nCopyright (c) [year] [fullname]\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
