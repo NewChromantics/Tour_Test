@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "85c15c6f3a772da84cdd90c12ee56918c4ef2741",
+		"Sha": "2174d2b18487d79f3f32735a966e0122c46dbf80",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T14:31:32.000Z",
+		"Date": "2021-11-02T14:32:48.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -113,8 +113,8 @@
 							"Name": "Example 1",
 							"Subtitle": "Traditional Media",
 							"MapUv": [
-								0.6063988095238095,
-								0.3228621291448517
+								0.5744047619047619,
+								0.41012216404886565
 							],
 							"Storys": [
 								{
@@ -140,23 +140,23 @@
 						},
 						{
 							"Name": "Example 2",
-							"Subtitle": "3D Media",
+							"Subtitle": "Video",
 							"MapUv": [
-								0.5059523809523809,
-								0.7643979057591623
+								0.6696428571428571,
+								0.18848167539267016
 							],
 							"Storys": [],
-							"MarkerAsset": "DublinCastleGardens.png"
+							"MarkerAsset": "palacegate-test.png"
 						},
 						{
 							"Name": "Example 3",
-							"Subtitle": "Original Content",
+							"Subtitle": "3D Media",
 							"MapUv": [
-								0.34598214285714285,
-								0.42757417102966844
+								0.5,
+								0.5
 							],
 							"Storys": [],
-							"MarkerAsset": "upper-test.png"
+							"MarkerAsset": "DublinCastleGardens.png"
 						}
 					],
 					"ThumbnailAsset": "1922.png",
