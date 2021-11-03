@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "1f2cb9e8492ab37e2315415791b3e2f2234206ff",
+		"Sha": "c1fde3c7e7d1cd920678b6a44fd977241dfe90d7",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T13:03:48.000Z",
+		"Date": "2021-11-03T13:09:18.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -160,8 +160,8 @@
 							"Name": "Castle Garden",
 							"Subtitle": "3D Media",
 							"MapUv": [
-								0.5446428571428571,
-								0.671892474239047
+								0.6316964285714286,
+								0.7054870979509993
 							],
 							"Storys": [
 								{
@@ -218,6 +218,16 @@
 								}
 							],
 							"MarkerAsset": "AR-marker-5.png"
+						},
+						{
+							"Name": "Excavation Site",
+							"Subtitle": "",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "AR-marker-6.png"
 						}
 					],
 					"ThumbnailAsset": "1922.png",
