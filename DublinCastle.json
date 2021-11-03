@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "fd112543577306d1836071571b6291c6ca865f27",
+		"Sha": "5f1a4da7cbf56cad6768d302a29eb22ea480edfc",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T12:54:32.000Z",
+		"Date": "2021-11-03T12:55:10.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -186,6 +186,12 @@
 									"Title": "The Waiter",
 									"ContentVideoAsset": "0004TheWaiterFinal-lowres.mp4",
 									"ContentText": "Getting ready for a grand dinner and an important visit."
+								},
+								{
+									"Template": "VideoText",
+									"Title": "The Hospital",
+									"ContentVideoAsset": "0003TheHospitalFinal-lowres.mp4",
+									"ContentText": "During WWI, these State Apartments were turned into a hospital to care for the wounded.\n\nWhat a place to recover!"
 								}
 							],
 							"MarkerAsset": "DublinCastleInterior.png"
