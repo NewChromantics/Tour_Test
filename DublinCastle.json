@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "ec877054fcbc55a223f75a7f5e60cea0ef8cdbdb",
+		"Sha": "1f2cb9e8492ab37e2315415791b3e2f2234206ff",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T13:03:16.000Z",
+		"Date": "2021-11-03T13:03:48.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -177,8 +177,8 @@
 							"Name": "State Apartments",
 							"Subtitle": "Original Media",
 							"MapUv": [
-								0.35267857142857145,
-								0.506108202443281
+								0.3671875,
+								0.481522939871317
 							],
 							"Storys": [
 								{
