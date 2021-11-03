@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "79c61ff54e3298b86b3573a1871fc582658e8735",
+		"Sha": "d855adee6a10e07a6aa8591af9ecc978fc70dbc6",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T15:56:09.000Z",
+		"Date": "2021-11-03T12:41:43.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -213,6 +213,16 @@
 								}
 							],
 							"MarkerAsset": "DublinCastleInterior.png"
+						},
+						{
+							"Name": "Upper Courtyard",
+							"Subtitle": "Place of Spectacle",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "ARmarker-test-1.png"
 						}
 					],
 					"ThumbnailAsset": "1922.png",
