@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "d855adee6a10e07a6aa8591af9ecc978fc70dbc6",
+		"Sha": "d8d2bcd8ccb89ddd91520c9673483eee82182629",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T12:41:43.000Z",
+		"Date": "2021-11-03T12:44:13.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -143,7 +143,7 @@
 									"ContentText": "King John commands the building of a castle in Dublin to protect his treasure and to act as a centre of English power in Ireland.\n\nIt remained a symbol of this power until the handover to Michael Collins, Sinn Fein and the Provisional Government was finally achieved in 1922 following the Easter Rising.\n"
 								}
 							],
-							"MarkerAsset": "MedievalTowerDublinCastle.png"
+							"MarkerAsset": "ARmarker-test-1.png"
 						},
 						{
 							"Name": "Palace Street Gate",
