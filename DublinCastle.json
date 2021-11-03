@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "d8d2bcd8ccb89ddd91520c9673483eee82182629",
+		"Sha": "c61d21c5be2b8dfa869c92491c08a04327a303be",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T12:44:13.000Z",
+		"Date": "2021-11-03T12:44:25.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -122,18 +122,6 @@
 									"Title": "Medieval Tower",
 									"ContentImageAsset": "recordtowercutthrough.png",
 									"ContentText": "Also Known as the Wardrobe Tower, Gunner’s Tower or Record Tower\n\nThe Medieval Tower is one of the oldest, most intact and most important parts of the city of Dublin to survive today. Dating from 1204-28, it was largely constructed during the reign of Henry III (1207–72), King of England and Lord of Ireland. Its walls are up to 4.8 metres thick.\n\nIn 1811 the tower was converted to hold state papers, at which time it was revamped to complement the new Chapel Royal being constructed next to it. The height of the tower was raised and its parapet was capped with new masonry battlements.\n\nLike all the early buildings of the Castle, it has had a variety of functions over the centuries. In its early use as the king’s Wardrobe Tower, armour, clothes and the king’s treasure were stored there.\n"
-								},
-								{
-									"Template": "ImageGallery",
-									"Title": "Upper Courtyard",
-									"ContentGalleryAssets": [
-										"0006UpperCourtyard-Georgian.png",
-										"0007UpperCourtyard-Victorian.png",
-										"0008UpperCourtyard-EarlyVictorian.png",
-										"0009UpperCourtyard-Edwardian.png",
-										null
-									],
-									"ContentText": "The Upper Courtyard has always been a place of spectacle, where lords and ladies would promenade in their finery, the military would hold their parades, and where important guests would be welcomed to Dublin.\n\nThese images show how the Upper Courtyard looked at different times.\n"
 								},
 								{
 									"Template": "AudioImageText",
