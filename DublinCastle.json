@@ -1,104 +1,13 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "56d6f18056acde4bfd4b7612dbc2f014940e8791",
+		"Sha": "c3525834b74141ce4ef515ac54b9a7935597861e",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T13:12:11.000Z",
+		"Date": "2021-11-03T13:13:47.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
-		{
-			"Name": "Testing",
-			"Subtitle": "Testing a Location Upload",
-			"AboutSubtitle": "",
-			"AboutText": "This is the demonstration trail for the final delivery of the Virtual Historic Dublin Cities project SBIR project response from this great adventure ltd.",
-			"Trails": [
-				{
-					"Name": "Testing",
-					"Subtitle": "",
-					"Hotspots": [
-						{
-							"Name": "The handover",
-							"Subtitle": "Michael Collins is 7 minutes late",
-							"MapUv": [
-								0.6599702380952381,
-								0.15357766143106458
-							],
-							"Storys": [
-								{
-									"Template": "VideoText",
-									"Title": "January 16th 1922",
-									"ContentVideoAsset": "0005PalaceStGatePathe.mp4",
-									"ContentText": "On this day in 1922, Michael Collins, the Chairman (Prime Minister) of the Provisional Government of Ireland created under the Anglo-Irish Treaty, accepted control of Dublin Castle from Lord Lieutenant FitzAlan. \n\nThe turnover symbolised the end of British rule in Ireland, even though the Irish Free State would remain part of the Commonwealth until 1949 and the six counties still remain under British rule. \n\nWhen Collins arrived at Dublin Castle Lord Lieutenant FitzAlan reportedly said, “you are seven minutes late, Mr. Collins” to which Collins replied “Blasted, you’ve been here seven centuries, what difference does seven minutes make now that you’re leaving.”"
-								}
-							],
-							"MarkerAsset": "palacegate.png"
-						},
-						{
-							"Name": "A place of spectacle",
-							"Subtitle": "Upper Courtyard",
-							"MapUv": [
-								0.44494047619047616,
-								0.36300174520069806
-							],
-							"Storys": [
-								{
-									"Template": "ImageGallery",
-									"Title": "A life on show",
-									"ContentGalleryAssets": [
-										"0006UpperCourtyard-Georgian.png",
-										"0007UpperCourtyard-Victorian.png",
-										"0008UpperCourtyard-EarlyVictorian.png",
-										"0009UpperCourtyard-Edwardian.png",
-										null
-									],
-									"ContentText": "The Upper Courtyard has for centuries been used as a place to show off.\n\nFor Georgrian ladies and gents it was all about dinners and balls, wearing the finest fashions and being seen by your peers.\n\nUnder British rule, this place was a parade ground, a stage upon which to showcase the military might of empire.\n\nIn more recent times, it has seen major public gatherings to celebrate events of national importance, such as announcing the outcome of Ireland's referendum over same sex marriage."
-								}
-							],
-							"MarkerAsset": "upper.png"
-						},
-						{
-							"Name": "The Black Pond",
-							"Subtitle": "",
-							"MapUv": [
-								0.5491071428571429,
-								0.6771378708551483
-							],
-							"Storys": [
-								{
-									"Template": "ModelText",
-									"Title": "Viking Coin",
-									"ContentModelAsset": "0001VikingCoinModel.zip"
-								}
-							],
-							"MarkerAsset": "garden.png"
-						},
-						{
-							"Name": "To build a castle",
-							"Subtitle": "King John",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"Template": "AudioImageText",
-									"Title": "Castles and Power",
-									"ContentAudioAsset": "0001KingJohnSpeech.wav",
-									"ContentImageAsset": "0005KingJohnPortrait.png"
-								}
-							],
-							"MarkerAsset": "tower.png"
-						}
-					],
-					"ThumbnailAsset": "markertest.png",
-					"MapPinAsset": "locationpin.png",
-					"MapAsset": "mapimage.png"
-				}
-			],
-			"ThumbnailAsset": "markertest.png"
-		},
 		{
 			"Name": "Dublin Castle",
 			"Subtitle": "Demonstration",
