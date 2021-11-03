@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "c61d21c5be2b8dfa869c92491c08a04327a303be",
+		"Sha": "baa79a68eb3269b77c06f3e3c2baa2fc47d4ee2b",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T12:44:25.000Z",
+		"Date": "2021-11-03T12:50:06.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -129,6 +129,12 @@
 									"ContentAudioAsset": "0001KingJohnSpeech.wav",
 									"ContentImageAsset": "0005KingJohnPortrait.png",
 									"ContentText": "King John commands the building of a castle in Dublin to protect his treasure and to act as a centre of English power in Ireland.\n\nIt remained a symbol of this power until the handover to Michael Collins, Sinn Fein and the Provisional Government was finally achieved in 1922 following the Easter Rising.\n"
+								},
+								{
+									"Template": "VideoText",
+									"Title": "The Escape",
+									"ContentVideoAsset": "0002TheEscapeFinal-lowres.mp4",
+									"ContentText": "Red Hugh escapes from Dublin Castle."
 								}
 							],
 							"MarkerAsset": "ARmarker-test-1.png"
