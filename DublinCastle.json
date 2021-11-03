@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "fee8e31ae270d2cff4c3e5671877fbffa15e087b",
+		"Sha": "0a46114b0cb2ee708b9174346d0d1211ecfbfb3d",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T12:51:34.000Z",
+		"Date": "2021-11-03T12:51:44.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -151,7 +151,7 @@
 									"Template": "VideoText",
 									"Title": "The Handover",
 									"ContentVideoAsset": "0005PalaceStGatePathe.mp4",
-									"ContentText": "Irish Free State. \n\nDublin Castle symbol and citadel of British Rule for centuries surrenders to Sinn Fein Provisional Government. \n\nThe official entry was singularly undramatic - though a moment that will live forever in Irish minds.\n"
+									"ContentText": "The birth of the Irish Free State. \n\nDublin Castle symbol and citadel of British Rule for centuries surrenders to Sinn Fein Provisional Government. \n\nThe official entry was singularly undramatic - though a moment that will live forever in Irish minds.\n"
 								}
 							],
 							"MarkerAsset": "AR-marker-2.png"
