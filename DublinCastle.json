@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "c1fde3c7e7d1cd920678b6a44fd977241dfe90d7",
+		"Sha": "987de0b9c9fedda1e5f93879468b82a038a73ed2",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T13:09:18.000Z",
+		"Date": "2021-11-03T13:12:00.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -223,8 +223,8 @@
 							"Name": "Excavation Site",
 							"Subtitle": "",
 							"MapUv": [
-								0.5,
-								0.5
+								0.28013392857142855,
+								0.6326987465751025
 							],
 							"Storys": [],
 							"MarkerAsset": "AR-marker-6.png"
