@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "7bbbc6e397b163ee9cf339c584af48d4f58e6eeb",
+		"Sha": "60cea818a72b7ff6bee6d7062fdda58edb317308",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T12:54:28.000Z",
+		"Date": "2021-11-03T12:54:30.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -180,14 +180,7 @@
 								0.35267857142857145,
 								0.506108202443281
 							],
-							"Storys": [
-								{
-									"Template": "VideoText",
-									"Title": "The Body",
-									"ContentVideoAsset": "0001TheBodyFinal-lowres.mp4",
-									"ContentText": ""
-								}
-							],
+							"Storys": [],
 							"MarkerAsset": "DublinCastleInterior.png"
 						},
 						{
