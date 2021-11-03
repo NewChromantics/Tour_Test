@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "0a46114b0cb2ee708b9174346d0d1211ecfbfb3d",
+		"Sha": "16c1a13aa1c952adfe82544f5e51b6d7887be906",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T12:51:44.000Z",
+		"Date": "2021-11-03T12:52:08.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -171,7 +171,7 @@
 									"ContentText": ""
 								}
 							],
-							"MarkerAsset": "DublinCastleGardens.png"
+							"MarkerAsset": "AR-marker-3.png"
 						},
 						{
 							"Name": "State Apartments",
