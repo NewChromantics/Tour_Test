@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "970af4ac5d97bff18f097d1815574b5a17a14777",
+		"Sha": "79c61ff54e3298b86b3573a1871fc582658e8735",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-02T15:55:57.000Z",
+		"Date": "2021-11-02T15:56:09.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -110,7 +110,7 @@
 					"Subtitle": "",
 					"Hotspots": [
 						{
-							"Name": "Example 1",
+							"Name": "Medieval Tower",
 							"Subtitle": "Traditional Media",
 							"MapUv": [
 								0.5744047619047619,
@@ -146,7 +146,7 @@
 							"MarkerAsset": "MedievalTowerDublinCastle.png"
 						},
 						{
-							"Name": "Example 2",
+							"Name": "Palace Street Gate",
 							"Subtitle": "Video",
 							"MapUv": [
 								0.6696428571428571,
@@ -163,11 +163,11 @@
 							"MarkerAsset": "palacegate-test.png"
 						},
 						{
-							"Name": "Example 3",
+							"Name": "Castle Garden",
 							"Subtitle": "3D Media",
 							"MapUv": [
-								0.5,
-								0.5
+								0.5446428571428571,
+								0.671892474239047
 							],
 							"Storys": [
 								{
@@ -180,7 +180,7 @@
 							"MarkerAsset": "DublinCastleGardens.png"
 						},
 						{
-							"Name": "Example 4",
+							"Name": "State Apartments",
 							"Subtitle": "Original Media",
 							"MapUv": [
 								0.35267857142857145,
