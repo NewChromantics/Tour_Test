@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "c3525834b74141ce4ef515ac54b9a7935597861e",
+		"Sha": "c82a9b3855c25ae943862822ad765b344866e5c6",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T13:13:47.000Z",
+		"Date": "2021-11-03T13:27:37.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -46,7 +46,7 @@
 									"ContentText": "Red Hugh escapes from Dublin Castle."
 								}
 							],
-							"MarkerAsset": "ARmarker-test-1.png"
+							"MarkerAsset": "sml-ar-marker-1.png"
 						},
 						{
 							"Name": "Palace Street Gate",
