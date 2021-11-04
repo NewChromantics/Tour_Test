@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "c82a9b3855c25ae943862822ad765b344866e5c6",
+		"Sha": "b1f7ce79da9fac4836020e4181d3065ac21e61fb",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-03T13:27:37.000Z",
+		"Date": "2021-11-04T11:15:58.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -63,7 +63,7 @@
 									"ContentText": "The birth of the Irish Free State. \n\nDublin Castle symbol and citadel of British Rule for centuries surrenders to Sinn Fein Provisional Government. \n\nThe official entry was singularly undramatic - though a moment that will live forever in Irish minds.\n"
 								}
 							],
-							"MarkerAsset": "AR-marker-2.png"
+							"MarkerAsset": "sml-ar-marker-2.png"
 						},
 						{
 							"Name": "Castle Garden",
