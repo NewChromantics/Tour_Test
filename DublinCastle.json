@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "078a7c8d5f71c7cf7291dba9ad05cc651c0ea2cf",
+		"Sha": "d1247ad0b6c621a2a7d46c684e99e7973becce37",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-04T11:18:01.000Z",
+		"Date": "2021-11-04T11:18:20.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -143,7 +143,7 @@
 									"ContentText": "THE SKELETON of a child dating back to the early Viking period has been discovered during an archaeological dig in Dublin. \n\nIt was discovered during excavations at the sight near the original Dubh Linn, which translates as black pool and served as the origins for the name Dublin. \n\nThe largely intact skeleton was found at the point just before the point where the River Poddle flows into the Dubh Linn, close to the River Liffey. "
 								}
 							],
-							"MarkerAsset": "AR-marker-6.png"
+							"MarkerAsset": "sml-ar-marker-6.png"
 						}
 					],
 					"ThumbnailAsset": "1922.png",
