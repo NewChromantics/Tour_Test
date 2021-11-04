@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "57ac8c3eec37bd10fc6808f9b37891f38a21def7",
+		"Sha": "29ae5ca85edd2d88b81add7aa53d06517b316c34",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-04T11:16:20.000Z",
+		"Date": "2021-11-04T11:16:43.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -103,7 +103,7 @@
 									"ContentText": "During WWI, these State Apartments were turned into a hospital to care for the wounded.\n\nWhat a place to recover!"
 								}
 							],
-							"MarkerAsset": "AR-marker-4.png"
+							"MarkerAsset": "sml-ar-marker-4.png"
 						},
 						{
 							"Name": "Upper Courtyard",
