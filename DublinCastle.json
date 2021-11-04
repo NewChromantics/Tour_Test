@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "29ae5ca85edd2d88b81add7aa53d06517b316c34",
+		"Sha": "078a7c8d5f71c7cf7291dba9ad05cc651c0ea2cf",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-04T11:16:43.000Z",
+		"Date": "2021-11-04T11:18:01.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -126,7 +126,7 @@
 									"ContentText": "The power of image.\n\nThe Upper Courtyard has always been a place for people to gather, from ladies and gents promenading in their finery, to military parade and visits from royalty."
 								}
 							],
-							"MarkerAsset": "AR-marker-5.png"
+							"MarkerAsset": "sml-ar-marker-5.png"
 						},
 						{
 							"Name": "Excavation Site",
