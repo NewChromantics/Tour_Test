@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "3395f5bbdacf59ce9a69497141c02223975eb8b1",
+		"Sha": "67b7e01e57ce7c488e45622aec501d8464d77c16",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-10T18:18:17.000Z",
+		"Date": "2021-11-10T18:20:42.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -243,7 +243,20 @@
 								0.5,
 								0.5
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Template": "ImageGallery",
+									"Title": "Understanding Plant Colours",
+									"ContentGalleryAssets": [
+										"OBG004.png",
+										"OBG007.png",
+										"OBG009.png",
+										"OBG010.png",
+										null
+									],
+									"ContentText": "Classification By Colour\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+								}
+							],
 							"MarkerAsset": "OBG002.png"
 						}
 					],
