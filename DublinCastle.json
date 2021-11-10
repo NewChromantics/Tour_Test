@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "40324f8ae7137c882735e89ae6acd4d38b36a4dc",
+		"Sha": "54218022e0b0abb38ba66e2f7cdbc5c57bd6df52",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-10T13:19:10.000Z",
+		"Date": "2021-11-10T18:09:16.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -214,7 +214,16 @@
 			"Subtitle": "AR Trail",
 			"AboutSubtitle": "",
 			"AboutText": "Discover the amazing natural history and natural future at Oman Botanic Gardens.",
-			"Trails": [],
+			"Trails": [
+				{
+					"Name": "Plants and Animals",
+					"Subtitle": "",
+					"Hotspots": [],
+					"ThumbnailAsset": "OBG002.png",
+					"MapAsset": "OBG003.png",
+					"MapPinAsset": "OBG002.png"
+				}
+			],
 			"ThumbnailAsset": "OBG001.png"
 		}
 	],
