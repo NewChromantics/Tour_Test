@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "67b7e01e57ce7c488e45622aec501d8464d77c16",
+		"Sha": "a95dc10c0e7bd45d2dcd04b06b4d2e27a758bcb1",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-10T18:20:42.000Z",
+		"Date": "2021-11-10T18:23:40.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -208,64 +208,6 @@
 			"AboutText": "Ireland's first and finest Palladian mansion...",
 			"Trails": [],
 			"ThumbnailAsset": "castledown.png"
-		},
-		{
-			"Name": "Oman Botanic Gardens",
-			"Subtitle": "AR Trail",
-			"AboutSubtitle": "",
-			"AboutText": "Discover the amazing natural history and natural future at Oman Botanic Gardens.",
-			"Trails": [
-				{
-					"Name": "Plants and Animals",
-					"Subtitle": "",
-					"Hotspots": [
-						{
-							"Name": "Plant Seasons",
-							"Subtitle": "",
-							"MapUv": [
-								0.40256890691049113,
-								0.5363457760314342
-							],
-							"Storys": [
-								{
-									"Template": "ImageText",
-									"Title": "Flowering Plants",
-									"ContentImageAsset": "OBG006.png",
-									"ContentText": "Oman In Bloom\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
-								}
-							],
-							"MarkerAsset": "OBG002.png"
-						},
-						{
-							"Name": "Plants by Colour",
-							"Subtitle": "",
-							"MapUv": [
-								0.5,
-								0.5
-							],
-							"Storys": [
-								{
-									"Template": "ImageGallery",
-									"Title": "Understanding Plant Colours",
-									"ContentGalleryAssets": [
-										"OBG004.png",
-										"OBG007.png",
-										"OBG009.png",
-										"OBG010.png",
-										null
-									],
-									"ContentText": "Classification By Colour\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-								}
-							],
-							"MarkerAsset": "OBG002.png"
-						}
-					],
-					"ThumbnailAsset": "OBG004.png",
-					"MapAsset": "OBG003.png",
-					"MapPinAsset": "OBG002.png"
-				}
-			],
-			"ThumbnailAsset": "OBG001.png"
 		}
 	],
 	"TermsAndConditions": "MIT License\n\nCopyright (c) [year] [fullname]\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
