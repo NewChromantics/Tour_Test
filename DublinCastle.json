@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "5da746e47cd9a1d9b6d49ecc902bcc4b8c1b555f",
+		"Sha": "e1ed4d15d667951315844ad223963ad997ffa54c",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-10T18:13:56.000Z",
+		"Date": "2021-11-10T18:14:18.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -218,7 +218,18 @@
 				{
 					"Name": "Plants and Animals",
 					"Subtitle": "",
-					"Hotspots": [],
+					"Hotspots": [
+						{
+							"Name": "Plant Seasons",
+							"Subtitle": "",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "OBG002.png"
+						}
+					],
 					"ThumbnailAsset": "OBG004.png",
 					"MapAsset": "OBG003.png",
 					"MapPinAsset": "OBG002.png"
