@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "e1ed4d15d667951315844ad223963ad997ffa54c",
+		"Sha": "b016d77ca96c905c5d2fcc465d40027f9b75c247",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-10T18:14:18.000Z",
+		"Date": "2021-11-10T18:15:01.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -226,7 +226,14 @@
 								0.5,
 								0.5
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Template": "ImageText",
+									"Title": "Flowering Plants",
+									"ContentImageAsset": "OBG006.png",
+									"ContentText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+								}
+							],
 							"MarkerAsset": "OBG002.png"
 						}
 					],
