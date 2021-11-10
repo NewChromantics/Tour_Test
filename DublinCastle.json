@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "adc4517d61977f99086b35bbfd186888fdc236d0",
+		"Sha": "40324f8ae7137c882735e89ae6acd4d38b36a4dc",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-04T13:38:44.000Z",
+		"Date": "2021-11-10T13:19:10.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -208,6 +208,14 @@
 			"AboutText": "Ireland's first and finest Palladian mansion...",
 			"Trails": [],
 			"ThumbnailAsset": "castledown.png"
+		},
+		{
+			"Name": "Oman Botanic Gardens",
+			"Subtitle": "AR Trail",
+			"AboutSubtitle": "",
+			"AboutText": "Discover the amazing natural history and natural future at Oman Botanic Gardens.",
+			"Trails": [],
+			"ThumbnailAsset": "OBG001.png"
 		}
 	],
 	"TermsAndConditions": "MIT License\n\nCopyright (c) [year] [fullname]\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
