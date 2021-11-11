@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "3ebeb8d00e061565baa1029bb264e03273610786",
+		"Sha": "8b0b37f7ebf164d046c3e9f34d7d15c94251d9fa",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-10T18:29:18.000Z",
+		"Date": "2021-11-11T11:35:03.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -123,7 +123,20 @@
 								0.5,
 								0.5
 							],
-							"Storys": [],
+							"Storys": [
+								{
+									"Template": "ImageGallery",
+									"Title": "Proms and Parades",
+									"ContentGalleryAssets": [
+										"0006UpperCourtyard-Georgian.png",
+										"0007UpperCourtyard-Victorian.png",
+										"parade-4.png",
+										"parade-5.png",
+										"referendumresults-dublincastle.png"
+									],
+									"ContentText": "This space has always been used for spectacle and showing off.\n\nLadies and gents would promenade in their fineries, socialising and taking a turn together. \n\nGenerals and monarchs have used this as a symbolic space to parade their position.\n\nIn more recent times, this has also been a place where impdortant announcements have been made to the public, such as the result of the referendum over same sex marriage."
+								}
+							],
 							"MarkerAsset": "AR-marker-5.png"
 						}
 					],
