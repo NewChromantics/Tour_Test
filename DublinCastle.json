@@ -1,10 +1,10 @@
 {
 	"Name": "Dublin Castle",
 	"CommitMeta": {
-		"Sha": "8b0b37f7ebf164d046c3e9f34d7d15c94251d9fa",
+		"Sha": "bbba445ac3aa0cd4e546557c7004eb085a558b33",
 		"AuthorName": "Editor",
 		"AuthorEmail": "editor@tour.cms",
-		"Date": "2021-11-11T11:35:03.000Z",
+		"Date": "2021-11-11T11:42:54.000Z",
 		"Message": "CommitNewOrgStruct()"
 	},
 	"Locations": [
@@ -103,8 +103,8 @@
 							"Name": "Excavation Site",
 							"Subtitle": "",
 							"MapUv": [
-								0.28013392857142855,
-								0.6326987465751025
+								0.2521929728116306,
+								0.656188605108055
 							],
 							"Storys": [
 								{
@@ -120,8 +120,8 @@
 							"Name": "Upper Courtyard",
 							"Subtitle": "A place through time",
 							"MapUv": [
-								0.5,
-								0.5
+								0.4801064979302161,
+								0.35952848722986247
 							],
 							"Storys": [
 								{
@@ -138,6 +138,16 @@
 								}
 							],
 							"MarkerAsset": "AR-marker-5.png"
+						},
+						{
+							"Name": "OPW TEAM TEST",
+							"Subtitle": "",
+							"MapUv": [
+								0.5,
+								0.5
+							],
+							"Storys": [],
+							"MarkerAsset": "OPW-TESTING-MARKER.png"
 						}
 					],
 					"ThumbnailAsset": "1922.png",
