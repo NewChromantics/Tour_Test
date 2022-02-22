@@ -1,2 +1,20 @@
 {
+	"CommitMeta": {
+		"Sha": "bac6d43094f70c2d2dede49d831860e45a84dbfe",
+		"AuthorName": "Graham Reeves",
+		"AuthorEmail": "graham@grahamreeves.com",
+		"Date": "2022-02-22T12:54:49.000Z",
+		"Message": "Create MythicCoast.json"
+	},
+	"Name": "Uninitialised Organisation",
+	"Locations": [
+		{
+			"Name": "The Ogre",
+			"Subtitle": "Statue",
+			"AboutSubtitle": "",
+			"AboutText": "",
+			"Trails": [],
+			"ThumbnailAsset": "TheOgre.png"
+		}
+	]
 }
